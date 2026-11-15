@@ -24,7 +24,7 @@ Off Grid AI is one private app for your computer and your phone. The free core o
 
 On a Mac it needs Apple silicon, Linux means Ubuntu 24.04 or newer on x64, and it's a young app (version 0.0.56), so it changes quickly.
 
-Pick it if you'd otherwise run separate tools for images, voice and documents. Pro is one payment of $119 or $7.99 a month for up to 5 devices. It adds memory, meeting notes without a bot, dictation into any app, a local vault, sync between your devices over your own network, and Computer Use and Web Use that act only after you approve. [Download](https://getoffgridai.co/download/)
+Pick it if you'd otherwise run separate tools for images, voice and documents. Pro is one payment of $34.99 right now (regular $119) or $7.99 a month for up to 5 devices. It adds memory, meeting notes without a bot, dictation into any app, a local vault, sync between your devices over your own network, and Computer Use and Web Use that act only after you approve. [Download](https://getoffgridai.co/download/)
 
 ## 2. LM Studio
 

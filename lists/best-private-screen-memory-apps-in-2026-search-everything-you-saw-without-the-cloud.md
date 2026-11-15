@@ -1,6 +1,6 @@
 # Best Private Screen Memory Apps in 2026 (Search What You Saw, No Cloud)
 
-The best private screen memory in 2026 is Off Grid AI Pro. It saves what was on your screen to your own disk and reads it with a local model on Mac, Windows or Linux, with no Copilot+ PC needed, and the same app records meetings and reviews your day, for one payment of $119. The best free alternative is Screenpipe's free plan, or Windrecorder on Windows, and if you already own a Copilot+ PC, Windows Recall is built in.
+The best private screen memory in 2026 is Off Grid AI Pro. It saves what was on your screen to your own disk and reads it with a local model on Mac, Windows or Linux, with no Copilot+ PC needed, and the same app records meetings and reviews your day, for one payment of $34.99 right now (regular $119). The best free alternative is Screenpipe's free plan, or Windrecorder on Windows, and if you already own a Copilot+ PC, Windows Recall is built in.
 
 I build Off Grid AI, one of the apps below. I've tried to be fair, and every fact links to its source.
 
@@ -8,7 +8,7 @@ I build Off Grid AI, one of the apps below. I've tried to be fair, and every fac
 
 | App | Platforms | Stays on your computer | Price | Best for |
 |---|---|---|---|---|
-| Off Grid AI Pro | Mac (Apple silicon), Windows, Linux | Yes, local models | One payment of $119, or $7.99/month | Memory plus meetings, paid once |
+| Off Grid AI Pro | Mac (Apple silicon), Windows, Linux | Yes, local models | One payment of $34.99 right now (regular $119), or $7.99/month | Memory plus meetings, paid once |
 | Screenpipe | macOS 13+, Windows 10+, Linux | Yes by default; local or cloud model | Free (limited history), Basic $250/year | Developers and AI agents |
 | Windows Recall | Windows 11 Copilot+ PCs | Yes, encrypted | Included with the PC | Copilot+ PC owners |
 | Trailback | macOS 13+, Windows 10/11 | Yes, encrypted | One-time, per computer ($9, listed down from $19) | Finding pages and files cheaply |
@@ -17,7 +17,7 @@ I build Off Grid AI, one of the apps below. I've tried to be fair, and every fac
 
 ## 1. Off Grid AI Pro
 
-[Off Grid AI](https://getoffgridai.co) is a free app for chat, images and documents on iOS, Android, macOS (Apple silicon), Windows and Linux. Pro adds screen memory on the computer. Once you press Resume capture, it saves sampled screen moments on your disk and reads them with a local vision model, so you can ask what Sam said about the rollout and get the source. You can exclude apps, pause and delete moments. Reflect shows your day or week by project, app and person, and the heavy reading can run overnight, 3:00 to 8:00 by default, so your computer stays fast while you work. The same Pro records meetings without a bot, and it's one payment of $119 or $7.99 a month for up to 5 devices.
+[Off Grid AI](https://getoffgridai.co) is a free app for chat, images and documents on iOS, Android, macOS (Apple silicon), Windows and Linux. Pro adds screen memory on the computer. Once you press Resume capture, it saves sampled screen moments on your disk and reads them with a local vision model, so you can ask what Sam said about the rollout and get the source. You can exclude apps, pause and delete moments. Reflect shows your day or week by project, app and person, and the heavy reading can run overnight, 3:00 to 8:00 by default, so your computer stays fast while you work. The same Pro records meetings without a bot, and it's one payment of $34.99 right now (regular $119) or $7.99 a month for up to 5 devices.
 
 Your computer has to run a small vision model, and nothing is captured while the app is closed. Pick it if you want Rewind back on Mac, Windows or Linux, kept on your own disk and paid for once.
 

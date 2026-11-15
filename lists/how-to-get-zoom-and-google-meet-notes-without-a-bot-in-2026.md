@@ -1,6 +1,6 @@
 # How to Get Zoom and Google Meet Notes Without a Bot Joining the Call (2026)
 
-The best way is Off Grid AI Pro. It records the call on your own computer, with no bot in Zoom, Meet or Teams, then writes the transcript and summary there with local models, on Mac, Windows or Linux, for one payment of $119. The best free alternative is MacWhisper's free version on a Mac. For shared team notes in the cloud, Granola is the most polished, and Zoom's and Google Meet's built-in summaries add no bot either.
+The best way is Off Grid AI Pro. It records the call on your own computer, with no bot in Zoom, Meet or Teams, then writes the transcript and summary there with local models, on Mac, Windows or Linux, for one payment of $34.99 right now (regular $119). The best free alternative is MacWhisper's free version on a Mac. For shared team notes in the cloud, Granola is the most polished, and Zoom's and Google Meet's built-in summaries add no bot either.
 
 I build Off Grid AI, one of the apps below. I've tried to be fair, and every fact links to its source.
 
@@ -8,7 +8,7 @@ I build Off Grid AI, one of the apps below. I've tried to be fair, and every fac
 
 | App | Platforms | Transcribes on your computer | Price | Best for |
 |---|---|---|---|---|
-| Off Grid AI Pro | Mac (Apple silicon), Windows, Linux | Yes | One payment of $119, or $7.99/month | Private notes on any computer |
+| Off Grid AI Pro | Mac (Apple silicon), Windows, Linux | Yes | One payment of $34.99 right now (regular $119), or $7.99/month | Private notes on any computer |
 | MacWhisper | Mac | Yes | Free, Pro €64 once | Free and private on a Mac |
 | Granola | macOS, Windows, iOS, Android | No (Deepgram, AssemblyAI) | Free (30 days of history), Business $14/user/month | Shared team notes |
 | Krisp | Windows, macOS | English only | Core $8/month yearly, $16 monthly | Noisy rooms |
@@ -21,7 +21,7 @@ I build Off Grid AI, one of the apps below. I've tried to be fair, and every fac
 
 ## 1. Off Grid AI Pro
 
-[Off Grid AI](https://getoffgridai.co) is a free app for chat, images and documents on iOS, Android, macOS (Apple silicon), Windows and Linux. Pro adds Meetings on the computer. It records two tracks, the call's audio and your microphone, so no bot joins Zoom, Teams or Meet. When you stop, a Whisper model writes the transcript on your computer and a local model writes the summary, so the call never reaches an AI company. It tells speakers apart by voice, and you can rename them and ask questions about the call. The same Pro adds a memory of your screens and documents and dictation into any app, and it costs one payment of $119 or $7.99 a month for up to 5 devices.
+[Off Grid AI](https://getoffgridai.co) is a free app for chat, images and documents on iOS, Android, macOS (Apple silicon), Windows and Linux. Pro adds Meetings on the computer. It records two tracks, the call's audio and your microphone, so no bot joins Zoom, Teams or Meet. When you stop, a Whisper model writes the transcript on your computer and a local model writes the summary, so the call never reaches an AI company. It tells speakers apart by voice, and you can rename them and ask questions about the call. The same Pro adds a memory of your screens and documents and dictation into any app, and it costs one payment of $34.99 right now (regular $119) or $7.99 a month for up to 5 devices.
 
 Your computer does the work, so it has to run a speech model. There are no shared team spaces, and the free app doesn't include Meetings. Pick it if your calls are client, legal or medical work, you're on Linux, or you'd rather pay once than every month.
 

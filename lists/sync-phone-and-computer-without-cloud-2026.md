@@ -10,7 +10,7 @@ Checked 15 November 2026 on each tool's own site, docs or GitHub.
 
 | Tool | Does | Phones | Computers | Works over the internet | Price |
 |---|---|---|---|---|---|
-| Off Grid AI | Files, clipboard text, chats and projects | iPhone, Android | Mac (Apple silicon), Windows x64, Linux x64 | No, local network only | Sync needs Pro: one payment of $119, or $7.99/month |
+| Off Grid AI | Files, clipboard text, chats and projects | iPhone, Android | Mac (Apple silicon), Windows x64, Linux x64 | No, local network only | Sync needs Pro: one payment of $34.99 right now (regular $119), or $7.99/month |
 | KDE Connect / GSConnect | Files, clipboard text, notifications, SMS | Android, iOS (limited) | Linux, Windows, macOS | Same network, or a VPN | Free |
 | Syncthing | Keeps whole folders in sync | Community apps (Syncthing-Fork, Möbius Sync) | Windows, macOS, Linux, BSD | Yes, through encrypted relays | Free, MPL-2.0 |
 | KeePassXC + a KeePass phone app | Passwords in one encrypted file | KeePassDX (Android), KeePassium or Strongbox (iPhone) | Windows, macOS, Linux | However you move the file | KeePassXC and KeePassDX free; iPhone apps have paid tiers |
@@ -23,7 +23,7 @@ You install one app on your phone and one on your computer, pair them once, and 
 
 The same Pro payment also covers meetings without a bot, dictation into any app, memory and the local AI itself.
 
-**The limit.** It doesn't sync passwords. The Vault stays on the one computer where you made it, and the phone app has no vault, so pair Off Grid AI with KeePassXC for passwords. It only syncs when both devices are on the same network, so nothing moves while you're out. Pro is one payment of $119 or $7.99 a month for up to 5 devices. The [devices page](https://getoffgridai.co/features/devices-and-privacy/) has the details.
+**The limit.** It doesn't sync passwords. The Vault stays on the one computer where you made it, and the phone app has no vault, so pair Off Grid AI with KeePassXC for passwords. It only syncs when both devices are on the same network, so nothing moves while you're out. Pro is one payment of $34.99 right now (regular $119) or $7.99 a month for up to 5 devices. The [devices page](https://getoffgridai.co/features/devices-and-privacy/) has the details.
 
 **Pick it if** you want files, clipboard and your chats in one app on your phone and computer, with nothing stored on anyone's server.
 

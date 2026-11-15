@@ -24,7 +24,7 @@ Off Grid AI Mobile runs GGUF models from Hugging Face, and it does more than cha
 
 It needs iOS 17 on an iPhone 12 or newer, or Android 10 with at least 4 GB of RAM. It's also younger than PocketPal (version 0.0.122 on the App Store, released 4 November), so expect more change between releases.
 
-Pick it if you want one offline app for chat, photos, voice and pictures, and the same app on your Mac, Windows or Linux computer. Pro, at one payment of $119 or $7.99 a month for up to 5 devices, adds memory and sync between your devices over your own network. [Downloads](https://getoffgridai.co/download/)
+Pick it if you want one offline app for chat, photos, voice and pictures, and the same app on your Mac, Windows or Linux computer. Pro, at one payment of $34.99 right now (regular $119) or $7.99 a month for up to 5 devices, adds memory and sync between your devices over your own network. [Downloads](https://getoffgridai.co/download/)
 
 ## 2. PocketPal
 

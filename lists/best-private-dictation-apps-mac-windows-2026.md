@@ -1,6 +1,6 @@
 # Best Dictation Apps for Mac and Windows in 2026 (Type Into Any App, Voice Stays Local)
 
-The best pick is Off Grid AI Pro, because one payment of $119 gets you dictation into any app on Mac, Windows and Linux, on up to 5 devices, with your voice transcribed on your own computer and meetings and memory included. If you want to pay nothing, Handy is free, open source and local on all three systems. If you have one Mac and only want dictation, VoiceInk is $25 once.
+The best pick is Off Grid AI Pro, because one payment of $34.99 right now (regular $119) gets you dictation into any app on Mac, Windows and Linux, on up to 5 devices, with your voice transcribed on your own computer and meetings and memory included. If you want to pay nothing, Handy is free, open source and local on all three systems. If you have one Mac and only want dictation, VoiceInk is $25 once.
 
 I build Off Grid AI, one of the apps below. I've tried to be fair, and every fact links to its source.
 
@@ -10,7 +10,7 @@ Checked 15 November 2026 on each app's own site, pricing page or GitHub.
 
 | App | Platforms | Transcribes on your computer | Price | Best for |
 |---|---|---|---|---|
-| Off Grid AI Pro | Mac (Apple silicon), Windows x64, Linux x64 | Yes (Whisper or Qwen3-ASR) | One payment of $119, or $7.99/month, up to 5 devices | Dictation plus meetings and memory, paid once |
+| Off Grid AI Pro | Mac (Apple silicon), Windows x64, Linux x64 | Yes (Whisper or Qwen3-ASR) | One payment of $34.99 right now (regular $119), or $7.99/month, up to 5 devices | Dictation plus meetings and memory, paid once |
 | Handy | Mac, Windows, Linux | Yes (Whisper, Parakeet) | Free, MIT licence | Free, open-source dictation |
 | Superwhisper | Mac, Windows, Linux, iOS, Android | Yes, or cloud models | Free; Pro $8.49/month, $84.99/year or $249.99 once | Polish and phone apps |
 | VoiceInk | Apple silicon Mac (macOS 14.4+), iOS | Yes | $25 once (1 Mac), $39 (2), $49 (3) | Cheapest paid Mac app |
@@ -97,7 +97,7 @@ Last, decide how you want to pay. Handy, Spokenly's Local plan, OpenWhispr's fre
 
 ### Which dictation app works on Mac, Windows and Linux for one payment?
 
-Off Grid AI Pro, at one payment of $119 for up to 5 devices, with meetings and memory included. Superwhisper's lifetime plan also covers all three at $249.99, and Handy is free on all three.
+Off Grid AI Pro, at one payment of $34.99 right now (regular $119) for up to 5 devices, with meetings and memory included. Superwhisper's lifetime plan also covers all three at $249.99, and Handy is free on all three.
 
 ### What is the best free dictation app that works offline?
 
