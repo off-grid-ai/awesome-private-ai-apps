@@ -1,24 +1,46 @@
 # The Best Private AI Apps in 2026
 
-Every app we could find that runs AI on your own phone or computer, plus the APIs for open models that don't keep your prompts. Eleven lists, each with the full comparison: platforms, prices, limits and what it's best for. Every fact links to its source in the full list. Checked 15 and 16 November 2026.
+Every app we could find that runs AI on your own phone or computer, the APIs for open models that don't keep your prompts, and what the paid alternatives cost. 22 lists, each with its full comparison: platforms, prices, limits and what it's best for. Every fact links to its source in the full list. Checked 14 to 16 November 2026.
 
 Use it, share it, copy the tables. If something's wrong or missing, [open an issue](https://github.com/off-grid-ai/private-ai-apps/issues) with a link and we'll fix it.
 
 ## Contents
 
-- [Run AI offline on your phone](#1-run-ai-offline-on-your-phone)
-- [A private ChatGPT alternative on Mac and Windows](#2-a-private-chatgpt-alternative-on-mac-and-windows)
-- [Zoom and Google Meet notes without a bot](#3-zoom-and-google-meet-notes-without-a-bot)
-- [Dictation that types into any app](#4-dictation-that-types-into-any-app)
-- [Screen memory without the cloud](#5-screen-memory-without-the-cloud)
-- [Sync phone and computer without a cloud](#6-sync-phone-and-computer-without-a-cloud)
-- [Flat-rate APIs for open models](#7-flat-rate-apis-for-open-models)
-- [LLM APIs that don't keep your prompts](#8-llm-apis-that-dont-keep-your-prompts)
-- [Ollama Cloud alternatives](#9-ollama-cloud-alternatives)
-- [OpenRouter alternatives with one monthly bill](#10-openrouter-alternatives-with-one-monthly-bill)
-- [Where to get open models besides Hugging Face](#11-where-to-get-open-models-besides-hugging-face)
+**Apps that run on your phone and computer**
 
-## 1. Run AI offline on your phone
+1. [Run AI offline on your phone](#1-run-ai-offline-on-your-phone)
+2. [A private ChatGPT alternative on Mac and Windows](#2-a-private-chatgpt-alternative-on-mac-and-windows)
+3. [Private AI on Windows and Linux with no subscription](#3-private-ai-on-windows-and-linux-with-no-subscription)
+4. [Zoom and Google Meet notes without a bot](#4-zoom-and-google-meet-notes-without-a-bot)
+5. [Meeting notes you pay for once](#5-meeting-notes-you-pay-for-once)
+6. [Dictation that types into any app](#6-dictation-that-types-into-any-app)
+7. [Dictation you pay for once](#7-dictation-you-pay-for-once)
+8. [Handy vs VoiceInk vs Superwhisper vs Off Grid AI](#8-handy-vs-voiceink-vs-superwhisper-vs-off-grid-ai)
+9. [Screen memory without the cloud](#9-screen-memory-without-the-cloud)
+10. [Time tracking with no timers](#10-time-tracking-with-no-timers)
+11. [Email assistants that never send without you](#11-email-assistants-that-never-send-without-you)
+12. [AI agents that use your computer with local models](#12-ai-agents-that-use-your-computer-with-local-models)
+13. [Browser agents in your own signed-in browser](#13-browser-agents-in-your-own-signed-in-browser)
+14. [Sync phone and computer without a cloud](#14-sync-phone-and-computer-without-a-cloud)
+
+**APIs for open models**
+
+15. [Local models behind an OpenAI-compatible API](#15-local-models-behind-an-openai-compatible-api)
+16. [Flat-rate APIs for open models](#16-flat-rate-apis-for-open-models)
+17. [LLM APIs that don't keep your prompts](#17-llm-apis-that-dont-keep-your-prompts)
+18. [Ollama Cloud alternatives](#18-ollama-cloud-alternatives)
+19. [OpenRouter alternatives with one monthly bill](#19-openrouter-alternatives-with-one-monthly-bill)
+20. [Where to get open models besides Hugging Face](#20-where-to-get-open-models-besides-hugging-face)
+
+**What AI subscriptions cost**
+
+21. [Which AI subscriptions one app can replace](#21-which-ai-subscriptions-one-app-can-replace)
+22. [What popular AI subscriptions cost a year](#22-what-popular-ai-subscriptions-cost-a-year)
+
+
+## Apps that run on your phone and computer
+
+### 1. Run AI offline on your phone
 
 | App | Platforms | Runs on the phone, offline | Price (US stores) | Best for |
 |---|---|---|---|---|
@@ -32,7 +54,7 @@ Use it, share it, copy the tables. If something's wrong or missing, [open an iss
 
 [Full list with sources](lists/best-apps-to-run-ai-models-offline-on-your-phone-2026.md) · [Read on dev.to](https://dev.to/alichherawalla/what-is-the-best-app-to-run-ai-models-offline-on-your-phone-iphone-and-android-2026-9p0)
 
-## 2. A private ChatGPT alternative on Mac and Windows
+### 2. A private ChatGPT alternative on Mac and Windows
 
 | App | Platforms | Runs offline, on your device | Price | Best for |
 |---|---|---|---|---|
@@ -46,7 +68,22 @@ Use it, share it, copy the tables. If something's wrong or missing, [open an iss
 
 [Full list with sources](lists/best-private-local-ai-apps-for-mac-and-windows-2026.md) · [Read on dev.to](https://dev.to/alichherawalla/best-private-local-ai-apps-for-mac-and-windows-in-2026-chatgpt-alternatives-that-run-offline-4co4)
 
-## 3. Zoom and Google Meet notes without a bot
+### 3. Private AI on Windows and Linux with no subscription
+
+| App | Jobs it covers | Windows | Linux | Price |
+|---|---|---|---|---|
+| **Off Grid AI** | Chat, images, voice, documents free. Pro: meeting notes, dictation, screen memory, time tracking, computer use | Yes, x64 | Yes, x64 AppImage and .deb, Ubuntu 24.04+ | Free. Pro $34.99 once (limited time, regular $119), 5 devices |
+| [LM Studio](https://lmstudio.ai/pricing) | Chat; Bionic agent | [x64 and ARM](https://lmstudio.ai/docs/app/system-requirements) | [x64 and ARM64 AppImage, Ubuntu 20.04+](https://lmstudio.ai/docs/app/system-requirements) | Free plan with local models; Bionic+ $20 a month |
+| [Jan](https://github.com/janhq/jan) | Chat | [x64 and ARM64](https://www.jan.ai/download) | [Flatpak, AppImage, .deb](https://www.jan.ai/download) | Free, open source (Apache 2.0) |
+| [Ollama](https://ollama.com/download) | Local model runtime and API | Yes, installer | Yes, install script | [Local use free and unlimited](https://ollama.com/pricing); cloud Pro $20 a month |
+| [GPT4All](https://github.com/nomic-ai/gpt4all) | Chat, document chat (LocalDocs) | x64 and ARM | x86-64 only, Ubuntu installer | Open source (MIT) |
+| [Msty Studio](https://msty.ai/products/studio/) | Chat with local and online models | x64 and ARM64 | x64 AppImage and .deb | [Free; Aurum $149 a year or $349 once](https://msty.ai/pricing) |
+| [Handy](https://github.com/cjpais/Handy) | Dictation | Yes | Yes; Wayland support "limited" | Free, open source (MIT) |
+| [Screenpipe](https://screenpipe.com/) | Screen and audio memory, meetings | Yes | Yes | [Free on one device, limited history; Basic $21 a month](https://screenpipe.com/pricing) |
+
+[Full list with sources](lists/best-private-ai-apps-for-windows-and-linux-with-no-subscription-in-2026-pay-once-or-free-runs-on-your-pc.md) · [Read on dev.to](https://dev.to/alichherawalla/best-private-ai-apps-for-windows-and-linux-with-no-subscription-in-2026-pay-once-or-free-runs-on-444p)
+
+### 4. Zoom and Google Meet notes without a bot
 
 | App | Platforms | Transcribes on your computer | Price | Best for |
 |---|---|---|---|---|
@@ -63,7 +100,19 @@ Use it, share it, copy the tables. If something's wrong or missing, [open an iss
 
 [Full list with sources](lists/how-to-get-zoom-and-google-meet-notes-without-a-bot-in-2026.md) · [Read on dev.to](https://dev.to/alichherawalla/how-to-get-zoom-and-google-meet-notes-without-a-bot-joining-the-call-2026-2700)
 
-## 4. Dictation that types into any app
+### 5. Meeting notes you pay for once
+
+| App | One-time price | What it records | Where transcription runs | Computers |
+|---|---|---|---|---|
+| Off Grid AI Pro | $34.99 once, up to 5 devices | Call audio, your mic and the screen; auto-starts on Zoom and Google Meet, or press **Record meeting** | Your computer (Whisper); summary by a local model | Mac (Apple silicon), Windows, Linux |
+| [MacWhisper](https://macwhisper.com) | €64 once (Pro) | Zoom, Teams, Webex, Skype, Chime, Discord and any app's audio (Pro only) | Your Mac, unless you connect a cloud service | Mac |
+| [Talat](https://talat.app) | $189 lifetime licence | Both sides of Zoom, Teams and Meet calls, started on its own | Your computer; summaries by a built-in Qwen3.5-4B | Mac (Apple silicon, macOS 15+), Windows 10+ |
+| [Anarlog](https://anarlog.so/pricing) (was Hyprnote, then Char) | Free plan | Your device's audio, no bot | Your computer, unlimited on the free plan | Mac; Windows and Linux in beta |
+| [Meetily](https://meetily.ai/pricing) | Free Community edition | System audio from Meet, Zoom, Teams, Slack Huddles and more | Your computer (Whisper) | Mac, Windows |
+
+[Full list with sources](lists/best-ai-meeting-note-apps-with-a-one-time-payment-in-2026-no-monthly-fee-no-meeting-bot.md) · [Read on dev.to](https://dev.to/alichherawalla/best-ai-meeting-note-apps-with-a-one-time-payment-in-2026-no-monthly-fee-no-meeting-bot-1lfd)
+
+### 6. Dictation that types into any app
 
 | App | Platforms | Transcribes on your computer | Price | Best for |
 |---|---|---|---|---|
@@ -78,7 +127,39 @@ Use it, share it, copy the tables. If something's wrong or missing, [open an iss
 
 [Full list with sources](lists/best-private-dictation-apps-mac-windows-2026.md) · [Read on dev.to](https://dev.to/alichherawalla/best-dictation-apps-for-mac-and-windows-in-2026-type-into-any-app-voice-stays-local-3nll)
 
-## 5. Screen memory without the cloud
+### 7. Dictation you pay for once
+
+| | Price | Computers | Speech to text on your computer | Types into any app |
+|---|---|---|---|---|
+| Off Grid AI Pro | $34.99 once, up to 5 devices | Mac (Apple silicon), Windows, Linux (x64) | Yes | Yes, pastes at your cursor |
+| Handy | Free, open source (MIT) | Mac, Windows, Linux | Yes | Yes, pastes into the app you're in |
+| VoiceInk | $25 once (1 Mac), $39 (2), $49 (3) | Apple silicon Mac, macOS 14.4+ | Yes | Yes |
+| MacWhisper Pro | €64 once per licence, free version too | Mac | Yes, or cloud providers you connect | Yes, system-wide dictation |
+| Superwhisper Pro lifetime | $249.99 once, as many devices as you like | Mac, Windows, Linux | Yes, or cloud models | Yes |
+| Wispr Flow Pro (the monthly baseline) | $15 a month, or $12 a month billed yearly | Mac, Windows | No, always cloud | Yes |
+
+[Full list with sources](lists/best-dictation-apps-with-a-one-time-payment-in-2026-lifetime-licences-compared-works-offline.md) · [Read on dev.to](https://dev.to/alichherawalla/best-dictation-apps-with-a-one-time-payment-in-2026-lifetime-licences-compared-works-offline-581j)
+
+### 8. Handy vs VoiceInk vs Superwhisper vs Off Grid AI
+
+| | Handy | VoiceInk | Superwhisper | Off Grid AI Pro |
+|---|---|---|---|---|
+| Where speech becomes text | On your computer | On your Mac | On your computer, or cloud models you pick | On your computer |
+| Speech models | Whisper (Small to Large), Parakeet V3, Parakeet Unified EN | Parakeet, WhisperKit | Whisper; Pro adds cloud and local models | Whisper, Parakeet, Qwen3-ASR |
+| Types into any app | Yes, pastes at the cursor | Yes | Yes | Yes, pastes at the cursor |
+| Hold to talk or tap | Hold or tap | Push-to-talk listed | Push to talk listed | Hold, Toggle or Both |
+| Computers | Mac, Windows, Linux (Wayland support limited) | Apple silicon Mac only | Mac, Windows, Linux (Wayland) | Mac (Apple silicon), Windows, Linux (x64) |
+| Phones | Not listed | iOS app | iOS and Android | Voice input in its own chat |
+| Open source | Yes, MIT | Yes, GPL v3 | Not listed | The free app is (AGPL v3); Pro, with dictation, is not |
+| Price | Free | $25, $39 or $49 once | Free plan; Pro $8.49 a month, $84.99 a year or $249.99 lifetime | $34.99 once, or $7.99 a month |
+| Devices | Any | 1, 2 or 3 Macs | As many as you like | Up to 5 |
+| File transcription | Not listed | Not listed | Pro | Yes |
+| Meeting recording | Not listed | Not listed | Mac only | No bot; Mac, Windows, Linux |
+| Words feed a memory | Not listed | Not listed | Not listed | Yes, people, projects and to-dos |
+
+[Full list with sources](lists/handy-vs-voiceink-vs-superwhisper-vs-off-grid-ai-2026-private-dictation-into-any-app-compared.md) · [Read on dev.to](https://dev.to/alichherawalla/handy-vs-voiceink-vs-superwhisper-vs-off-grid-ai-2026-private-dictation-into-any-app-compared-1jn8)
+
+### 9. Screen memory without the cloud
 
 | App | Platforms | Stays on your computer | Price | Best for |
 |---|---|---|---|---|
@@ -91,7 +172,62 @@ Use it, share it, copy the tables. If something's wrong or missing, [open an iss
 
 [Full list with sources](lists/best-private-screen-memory-apps-in-2026-search-everything-you-saw-without-the-cloud.md) · [Read on dev.to](https://dev.to/alichherawalla/best-private-screen-memory-apps-in-2026-search-what-you-saw-no-cloud-35hf)
 
-## 6. Sync phone and computer without a cloud
+### 10. Time tracking with no timers
+
+| | Timers needed | Activity stored | AI on your activity | Computers | Price |
+|---|---|---|---|---|---|
+| 1. Off Grid AI | No | Your disk | Local model | Mac (Apple silicon), Windows, Linux | Free app; Reflect needs Pro, $34.99 paid once, or $7.99 a month |
+| 2. ActivityWatch | No | Your device | Not listed | Windows, macOS, Linux, Android | Free, open source |
+| 3. Memtime | No | Your device | Not listed | Windows, Mac, Linux | From $14 a user a month, billed yearly |
+| 4. Timing | No | Your Mac, unless you use Sync | Google Vertex AI, EU (Expert and up) | macOS only | Expert $11 a month, billed yearly |
+| 5. RescueTime | No | RescueTime's storage | Not listed | Desktop, web, iOS, Android | Solo $9 a month, or $84 a year |
+| 6. Rize | No | Amazon Web Services | Gemini, Anthropic, OpenAI | Mac, Windows; Linux "coming soon" | Basic $12.99 a month, or $9.99 billed yearly |
+| 7. Timely | No | AWS servers in Europe | AI categorization | Memory app: macOS 14+, Windows 10+ | Starter $11 a user a month, or $9 billed yearly |
+
+[Full list with sources](lists/best-automatic-time-trackers-that-need-no-timers-in-2026-private-your-day-stays-on-your-computer.md) · [Read on dev.to](https://dev.to/alichherawalla/best-automatic-time-trackers-that-need-no-timers-in-2026-private-your-day-stays-on-your-computer-359a)
+
+### 11. Email assistants that never send without you
+
+| | Sends on its own? | Where the AI reads your mail | Calendar | Price |
+|---|---|---|---|---|
+| 1. Off Grid AI Pro | No. It sends when you ask; its own suggestions wait for your yes | Your computer, local model | Reads Google primary and Outlook calendars; adds Apple Calendar (Mac) or Outlook (Windows) events, and Google events through Web Use | $34.99, paid once, or $7.99 a month |
+| 2. Superhuman Mail | "Never sent automatically" (Auto Drafts) | Cloud; Anthropic and OpenAI listed as subprocessors | Calendar and scheduling | Business $33 a member a month, yearly |
+| 3. Jace | Not by default; auto-send is opt-in | Cloud | Calendars and scheduling | From $20 a month, yearly |
+| 4. Fyxer | No for replies; meeting recaps can go out if you choose | Fyxer's servers | Not listed in detail | Free plan; Pro $37 a month, yearly |
+| 5. Lindy | Outside-impact actions wait for approval | Lindy's cloud | Scheduling, prep, follow-up | Team from $29.99 a month |
+| 6. Shortwave | Not stated for the assistant | Cloud; Claude models | Checks availability, sends invites | Business $30 a seat a month |
+| 7. Gemini in Gmail | Not stated; inbox changes wait for your confirmation | Google's cloud | Proposes times, adds events to primary calendar | Needs a Google AI or Workspace plan |
+
+[Full list with sources](lists/best-ai-email-assistants-that-never-send-without-your-approval-in-2026-private-drafts-and-calendar.md) · [Read on dev.to](https://dev.to/alichherawalla/best-ai-email-assistants-that-never-send-without-your-approval-in-2026-private-drafts-and-calendar-43p5)
+
+### 12. AI agents that use your computer with local models
+
+| | Runs on | Local models | Setup | Where it works | Asks before acting | Price |
+|---|---|---|---|---|---|---|
+| 1. Off Grid AI | Mac (Apple silicon), Windows, Linux | Built in | Download the app | Your desktop apps and browser | Yes, each task | Free app; Pro $34.99, paid once, or $7.99 a month |
+| 2. Browser Use | Not listed | Ollama or any OpenAI-compatible server | Python 3.11+ and code | Browser only | Not listed | Free library; cloud browsers $0.06 an hour |
+| 3. Agent Zero | Anywhere Docker runs | Ollama and LM Studio listed | A0 Launcher and Docker | Its own Linux workspace | Its safety notes say review | Free |
+| 4. UI-TARS Desktop | macOS, Windows | Guide uses a hosted endpoint | Download, then set a model URL and key | Desktop and browser | Not listed | Free; repository archived |
+| 5. OpenHands | macOS, Linux, Windows | LM Studio, Ollama, vLLM | Node.js 24 and uv, or Docker | Code projects | Not listed | Free; Teams $500 a month |
+| 6. Observer AI | macOS, Windows, Linux, web | Bundles llama.cpp | Download the app | Watches screen, camera and audio | Not listed | Free |
+
+[Full list with sources](lists/best-ai-agents-that-can-use-your-computer-with-local-models-in-2026-no-cloud-computer.md) · [Read on dev.to](https://dev.to/alichherawalla/best-ai-agents-that-can-use-your-computer-with-local-models-in-2026-no-cloud-computer-3dac)
+
+### 13. Browser agents in your own signed-in browser
+
+| | Works in | Model runs | Hands sensitive steps to you | Price |
+|---|---|---|---|---|
+| 1. Off Grid AI | Your Chrome or Firefox | Your computer (OGAD) | Passwords, codes, card numbers, CAPTCHAs, in code | Pro $34.99, paid once |
+| 2. Nanobrowser | Your Chrome or Edge | Your choice: cloud key or Ollama, LM Studio | Payments, passwords, codes | Free, you pay your model provider |
+| 3. Claude in Chrome | Your Chrome | Anthropic's Claude | Asks before purchases and actions you can't undo | Claude paid plans, from $17 a month yearly |
+| 4. ChatGPT browser extension | Your Chrome, Edge, Brave, Opera, Vivaldi | OpenAI's ChatGPT | Asks before each new site | Not listed on its page |
+| 5. Gemini in Chrome | Your Chrome | Google's Gemini 3 | Asks before purchases and social posts | Google AI Pro or Ultra |
+| 6. Browser MCP | Your Chrome or Chromium browser | Whatever your MCP app uses | Not listed | Not listed |
+| 7. BrowserOS | A separate browser | Your AI provider keys | Not listed | Free, open source |
+
+[Full list with sources](lists/best-ai-browser-agents-that-work-in-your-own-signed-in-browser-in-2026-local-models-no-remote-browser.md) · [Read on dev.to](https://dev.to/alichherawalla/best-ai-browser-agents-that-work-in-your-own-signed-in-browser-in-2026-local-models-no-remote-2k9n)
+
+### 14. Sync phone and computer without a cloud
 
 | Tool | Does | Phones | Computers | Works over the internet | Price |
 |---|---|---|---|---|---|
@@ -104,7 +240,22 @@ Use it, share it, copy the tables. If something's wrong or missing, [open an iss
 
 [Full list with sources](lists/sync-phone-and-computer-without-cloud-2026.md) · [Read on dev.to](https://dev.to/alichherawalla/how-to-sync-files-clipboard-and-passwords-between-phone-and-computer-without-a-cloud-2026-26ff)
 
-## 7. Flat-rate APIs for open models
+## APIs for open models
+
+### 15. Local models behind an OpenAI-compatible API
+
+| | Local address | OpenAI routes on its own docs | Images route | Platforms | Licence and cost |
+|---|---|---|---|---|---|
+| 1. Off Grid AI Desktop | `127.0.0.1:7878/v1` | Chat with vision, completions, embeddings, transcriptions, speech, images, models | Yes | Mac (Apple silicon), Windows x64, Linux x64 | Free, AGPL-3.0 |
+| 2. Ollama | `localhost:11434/v1` | Chat, completions, embeddings, responses, speech, transcriptions, translations, models | Not listed | macOS, Windows, Linux | Free, MIT |
+| 3. LM Studio | `localhost:1234/v1` in its examples | Chat with images, completions, embeddings, responses, models | Not listed | Apple silicon Mac, Windows x64 and ARM, Linux x64 and ARM64 | Free, including at work |
+| 4. llama.cpp (llama-server) | `127.0.0.1:9931` | Chat, completions, responses, embeddings, rerank, speech for audio models | Not listed | Any; Metal, CUDA, HIP, Vulkan, SYCL, CPU | Free, MIT |
+| 5. vLLM | `localhost:8000/v1` in its examples | Chat, completions, responses, embeddings, transcriptions, translations | Not listed | NVIDIA, AMD, Intel GPUs; Apple silicon via vLLM-Metal; CPU | Free, Apache-2.0 |
+| 6. Jan | `127.0.0.1:1337/v1` | Chat completions documented | Not listed | Windows, macOS, Linux | Free, Apache 2.0 |
+
+[Full list with sources](lists/best-ways-to-run-local-ai-models-behind-an-openai-compatible-api-in-2026-no-api-key-no-cloud.md) · [Read on dev.to](https://dev.to/alichherawalla/best-ways-to-run-local-ai-models-behind-an-openai-compatible-api-in-2026-no-api-key-no-cloud-28ag)
+
+### 16. Flat-rate APIs for open models
 
 | Service | Price a month | What caps your use | Qwen and DeepSeek | Prompts stored? | Status |
 |---|---|---|---|---|---|
@@ -117,7 +268,7 @@ Use it, share it, copy the tables. If something's wrong or missing, [open an iss
 
 [Full list with sources](lists/best-flat-rate-apis-for-open-models-in-2026-no-per-token-bills.md) · [Read on the web](https://getoffgridai.co/articles/best-flat-rate-apis-for-open-models-in-2026-no-per-token-bills/)
 
-## 8. LLM APIs that don't keep your prompts
+### 17. LLM APIs that don't keep your prompts
 
 | | Stores prompts? | Trains on them? | Price | Limits |
 |---|---|---|---|---|
@@ -134,7 +285,7 @@ Use it, share it, copy the tables. If something's wrong or missing, [open an iss
 
 [Full list with sources](lists/best-private-llm-apis-in-2026-prompts-never-stored-or-trained-on.md) · [Read on the web](https://getoffgridai.co/articles/best-private-llm-apis-in-2026-prompts-never-stored-or-trained-on/)
 
-## 9. Ollama Cloud alternatives
+### 18. Ollama Cloud alternatives
 
 | | How you pay | Entry price a month | Limits | Qwen and DeepSeek | Your prompts |
 |---|---|---|---|---|---|
@@ -148,7 +299,7 @@ Use it, share it, copy the tables. If something's wrong or missing, [open an iss
 
 [Full list with sources](lists/best-ollama-cloud-alternatives-in-2026-flat-price-qwen-included.md) · [Read on the web](https://getoffgridai.co/articles/best-ollama-cloud-alternatives-in-2026-flat-price-qwen-included/)
 
-## 10. OpenRouter alternatives with one monthly bill
+### 19. OpenRouter alternatives with one monthly bill
 
 | Option | How you pay | Price a month | Usage limits | Models | Your prompts | Status |
 |---|---|---|---|---|---|---|
@@ -162,7 +313,7 @@ Use it, share it, copy the tables. If something's wrong or missing, [open an iss
 
 [Full list with sources](lists/best-openrouter-alternatives-with-a-monthly-subscription-in-2026-one-key-one-bill.md) · [Read on the web](https://getoffgridai.co/articles/best-openrouter-alternatives-with-a-monthly-subscription-in-2026-one-key-one-bill/)
 
-## 11. Where to get open models besides Hugging Face
+### 20. Where to get open models besides Hugging Face
 
 | | Best for | Price | You keep the model or hold the key? | Open source? |
 |---|---|---|---|---|
@@ -177,6 +328,46 @@ Use it, share it, copy the tables. If something's wrong or missing, [open an iss
 | 9. Together AI | A large per-token host with fine-tuning | DeepSeek V4.1 Flash $0.30 / $1.20 per 1M tokens | Your key | No |
 
 [Full list with sources](lists/best-hugging-face-alternatives-in-2026-where-to-get-and-run-open-models.md) · [Read on the web](https://getoffgridai.co/articles/best-hugging-face-alternatives-in-2026-where-to-get-and-run-open-models/)
+
+## What AI subscriptions cost
+
+### 21. Which AI subscriptions one app can replace
+
+| Job | Popular subscription | Its price | 3 years | Off Grid AI |
+|---|---|---|---|---|
+| Private ChatGPT-style chat | [ChatGPT Plus](https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus) | $20 a month, no yearly plan | $720 | Free. Local chat, answers from your files, voice |
+| Meeting notes without a bot | [Granola Business](https://www.granola.ai/pricing) | $14 a user a month | $504 | Pro. Meetings on Mac, Windows, Linux |
+| Dictation into any app | [Wispr Flow Pro](https://wisprflow.ai/pricing) | $15 a month, $12 billed yearly | $432 | Pro, on your computer. No phone keyboard |
+| Screen memory | [Screenpipe Basic](https://screenpipe.com/pricing) | $21 a month, $250 a year | $750 | Pro. Memory of your screens, meetings, mail, docs |
+| Time tracking | [Rize Basic](https://rize.io/pricing) | $12.99 a month, $9.99 billed yearly | $359.64 | Pro. Reflect, no timers |
+| Clipboard across devices | [Paste Personal](https://pasteapp.io/pricing) | $3.99 a month, $29.99 a year | $89.97 | Pro. Clipboard and Sync over your own network |
+| Password vault | [1Password Individual](https://1password.com/pricing/password-manager) | $3.99 a month ($2.99 first-year promo) | $143.64 | Pro. Vault on one computer, not on your phone |
+| Browser and computer agent | [Claude Pro](https://claude.com/pricing), with Claude in Chrome | $20 a month, $200 a year | $600 | Pro. Web Use in Chrome or Firefox, Computer Use |
+| Email and calendar assistant | [Superhuman Business](https://superhuman.com/plans/mail) | $33 a member a month, billed yearly | $1,188 | Pro, partly. Reads mail and calendars, drafts in Chat |
+| Images and video | [Midjourney Basic](https://docs.midjourney.com/hc/en-us/articles/27870484040333-Comparing-Midjourney-Plans) | $10 a month, $96 a year | $288 | Images free. Video with Pro |
+| **All ten** | | | **$5,075.25** | **Pro $34.99 once** |
+
+[Full list with sources](lists/which-ai-subscriptions-can-you-replace-with-one-app-in-2026-pay-once-runs-on-your-own-devices.md) · [Read on dev.to](https://dev.to/alichherawalla/which-ai-subscriptions-can-you-replace-with-one-app-in-2026-pay-once-runs-on-your-own-devices-4ke3)
+
+### 22. What popular AI subscriptions cost a year
+
+| Tool and plan | Job | Billed monthly | Yearly cost | Off Grid AI |
+|---|---|---|---|---|
+| [ChatGPT Plus](https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus) | AI chat | $20 | $240 (no yearly plan) | Free, local models |
+| [Granola Business](https://www.granola.ai/pricing) | Meeting notes | $14 | $168 (no yearly price shown) | Pro |
+| [Fireflies Pro](https://fireflies.ai/pricing) | Meeting notes | $18 | $120 ($10 a month billed yearly) | Pro |
+| [Otter Pro](https://otter.ai/pricing) | Meeting notes | $16.99 | $99.96 ($8.33 a month billed yearly) | Pro |
+| [Wispr Flow Pro](https://wisprflow.ai/pricing) | Dictation | $15 | $144 ($12 a month billed yearly) | Pro, computer only |
+| [Superwhisper Pro](https://superwhisper.com/) | Dictation | $8.49 | $84.99 | Pro, computer only |
+| [Rize Basic](https://rize.io/pricing) | Time tracking | $12.99 | $119.88 ($9.99 a month billed yearly) | Pro (Reflect) |
+| [RescueTime Solo](https://www.rescuetime.com/pricing) | Time tracking | $9 | $84 | Pro (Reflect) |
+| [Raycast Pro](https://www.raycast.com/pricing) | AI in a launcher | $10 | $96 | AI chat free, clipboard with Pro |
+| [1Password Individual](https://1password.com/pricing/password-manager) | Passwords | Billed yearly only | $47.88 ($35.88 first year for new customers) | Pro, one computer |
+| [Paste Personal](https://pasteapp.io/pricing) | Clipboard history | $3.99 | $29.99 | Pro |
+| [Rewind / Limitless](https://www.limitless.ai/) | Screen memory | No longer sold | Not counted | Pro (Memory) |
+| **All 11 priced tools** | | **$1,589.40 a year** | **$1,234.70** | **$34.99 once** |
+
+[Full list with sources](lists/how-much-do-ai-subscriptions-cost-in-2026-yearly-totals-for-popular-ai-tools-and-what-paying-once-saves.md) · [Read on dev.to](https://dev.to/alichherawalla/how-much-do-ai-subscriptions-cost-in-2026-yearly-totals-for-popular-ai-tools-and-what-paying-once-3f9)
 
 ## How these lists are made
 
