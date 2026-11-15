@@ -1,6 +1,6 @@
 # The Best Private AI Apps in 2026
 
-Every app we could find that runs AI on your own phone or computer, the APIs for open models that don't keep your prompts, and what the paid alternatives cost. 22 lists, each with its full comparison: platforms, prices, limits and what it's best for. Every fact links to its source in the full list. Checked 14 to 16 November 2026.
+Every app we could find that runs AI on your own phone or computer, the APIs for open models that don't keep your prompts, and what the paid alternatives cost. 24 lists, each with its full comparison: platforms, prices, limits and what it's best for. Every fact links to its source in the full list. Checked 14 to 16 November 2026.
 
 Use it, share it, copy the tables. If something's wrong or missing, [open an issue](https://github.com/off-grid-ai/private-ai-apps/issues) with a link and we'll fix it.
 
@@ -16,26 +16,28 @@ Use it, share it, copy the tables. If something's wrong or missing, [open an iss
 6. [Dictation that types into any app](#6-dictation-that-types-into-any-app)
 7. [Dictation you pay for once](#7-dictation-you-pay-for-once)
 8. [Handy vs VoiceInk vs Superwhisper vs Off Grid AI](#8-handy-vs-voiceink-vs-superwhisper-vs-off-grid-ai)
-9. [Screen memory without the cloud](#9-screen-memory-without-the-cloud)
-10. [Time tracking with no timers](#10-time-tracking-with-no-timers)
-11. [Email assistants that never send without you](#11-email-assistants-that-never-send-without-you)
-12. [AI agents that use your computer with local models](#12-ai-agents-that-use-your-computer-with-local-models)
-13. [Browser agents in your own signed-in browser](#13-browser-agents-in-your-own-signed-in-browser)
-14. [Sync phone and computer without a cloud](#14-sync-phone-and-computer-without-a-cloud)
+9. [Grammar checks that stay on your computer](#9-grammar-checks-that-stay-on-your-computer)
+10. [Markdown notes with local AI, for Obsidian users](#10-markdown-notes-with-local-ai-for-obsidian-users)
+11. [Screen memory without the cloud](#11-screen-memory-without-the-cloud)
+12. [Time tracking with no timers](#12-time-tracking-with-no-timers)
+13. [Email assistants that never send without you](#13-email-assistants-that-never-send-without-you)
+14. [AI agents that use your computer with local models](#14-ai-agents-that-use-your-computer-with-local-models)
+15. [Browser agents in your own signed-in browser](#15-browser-agents-in-your-own-signed-in-browser)
+16. [Sync phone and computer without a cloud](#16-sync-phone-and-computer-without-a-cloud)
 
 **APIs for open models**
 
-15. [Local models behind an OpenAI-compatible API](#15-local-models-behind-an-openai-compatible-api)
-16. [Flat-rate APIs for open models](#16-flat-rate-apis-for-open-models)
-17. [LLM APIs that don't keep your prompts](#17-llm-apis-that-dont-keep-your-prompts)
-18. [Ollama Cloud alternatives](#18-ollama-cloud-alternatives)
-19. [OpenRouter alternatives with one monthly bill](#19-openrouter-alternatives-with-one-monthly-bill)
-20. [Where to get open models besides Hugging Face](#20-where-to-get-open-models-besides-hugging-face)
+17. [Local models behind an OpenAI-compatible API](#17-local-models-behind-an-openai-compatible-api)
+18. [Flat-rate APIs for open models](#18-flat-rate-apis-for-open-models)
+19. [LLM APIs that don't keep your prompts](#19-llm-apis-that-dont-keep-your-prompts)
+20. [Ollama Cloud alternatives](#20-ollama-cloud-alternatives)
+21. [OpenRouter alternatives with one monthly bill](#21-openrouter-alternatives-with-one-monthly-bill)
+22. [Where to get open models besides Hugging Face](#22-where-to-get-open-models-besides-hugging-face)
 
 **What AI subscriptions cost**
 
-21. [Which AI subscriptions one app can replace](#21-which-ai-subscriptions-one-app-can-replace)
-22. [What popular AI subscriptions cost a year](#22-what-popular-ai-subscriptions-cost-a-year)
+23. [Which AI subscriptions one app can replace](#23-which-ai-subscriptions-one-app-can-replace)
+24. [What popular AI subscriptions cost a year](#24-what-popular-ai-subscriptions-cost-a-year)
 
 
 ## Apps that run on your phone and computer
@@ -159,7 +161,31 @@ Use it, share it, copy the tables. If something's wrong or missing, [open an iss
 
 [Full list with sources](lists/handy-vs-voiceink-vs-superwhisper-vs-off-grid-ai-2026-private-dictation-into-any-app-compared.md) · [Read on dev.to](https://dev.to/alichherawalla/handy-vs-voiceink-vs-superwhisper-vs-off-grid-ai-2026-private-dictation-into-any-app-compared-1jn8)
 
-### 9. Screen memory without the cloud
+### 9. Grammar checks that stay on your computer
+
+| | Price | Devices | Checks on your computer | Works in other apps | AI rewrites on your computer |
+|---|---|---|---|---|---|
+| [Off Grid AI Pro](https://getoffgridai.co/pro/) (Scribe) | $34.99 once, up to 5 devices | Mac (Apple silicon), Windows, Linux, plus iPhone and Android | Yes | Yes, plus one shortcut everywhere | Yes, with a local chat model and your style guide |
+| Harper | Free, open source (Apache-2.0) | Mac app; browser and editor plugins everywhere | Yes | On Mac, and through its browser and editor plugins | No AI rewrites |
+| Apple Writing Tools | Included with macOS | Macs with Apple Intelligence (M1 or later) | On-device, with larger requests on Apple's Private Cloud Compute | Yes, in most places you write | On-device or Private Cloud Compute |
+| Writing Tools (open source) | Free (GPL-3.0) | Windows, Mac (macOS 14+), Linux | Only with a local model you set up | Yes, select and press Ctrl+Space | Only if you point it at Ollama or llama.cpp |
+| LanguageTool | Free plan; Premium paid | Browser add-ons, Mac, Windows | Only as a self-hosted Java server | Through its add-ons | AI rules run in its cloud |
+
+[Full list with sources](lists/best-private-grammarly-alternatives-in-2026-grammar-checks-that-stay-on-your-computer.md) · [Read on dev.to](https://dev.to/alichherawalla/best-private-grammarly-alternatives-in-2026-grammar-checks-that-stay-on-your-computer-48pi)
+
+### 10. Markdown notes with local AI, for Obsidian users
+
+| | Price | Platforms | Notes stored as | Opens an Obsidian vault | AI |
+|---|---|---|---|---|---|
+| [Off Grid AI Pro](https://getoffgridai.co/pro/) (Notes) | $34.99 once, up to 5 devices | Mac (Apple silicon), Windows, Linux, iPhone, Android | Plain Markdown files | Yes, as it is | On your computer |
+| Logseq | Free, open source (AGPL-3.0) | Desktop and mobile | Markdown files, with a database version in beta | Not listed | Not listed |
+| Zettlr | Free, open source (GPL-3.0) | Windows, Mac, Linux | Files on your computer | Opens any folder of Markdown | Not listed; LanguageTool for grammar |
+| Joplin | App open source; Joplin Cloud from €2.40 a month billed yearly | Windows, Mac, Linux, Android, iOS | Notes in Markdown or rich text, end-to-end encrypted sync | Not listed | Joplin Cloud AI (beta), hosted by Joplin Cloud |
+| Obsidian, for reference | Free; Sync $4 a month billed yearly | Windows, Mac, Linux, Android, iOS | Plain Markdown files | It's the original | Not built in |
+
+[Full list with sources](lists/best-obsidian-alternatives-in-2026-private-markdown-notes-with-local-ai.md) · [Read on dev.to](https://dev.to/alichherawalla/best-obsidian-alternatives-in-2026-private-markdown-notes-with-local-ai-202b)
+
+### 11. Screen memory without the cloud
 
 | App | Platforms | Stays on your computer | Price | Best for |
 |---|---|---|---|---|
@@ -172,7 +198,7 @@ Use it, share it, copy the tables. If something's wrong or missing, [open an iss
 
 [Full list with sources](lists/best-private-screen-memory-apps-in-2026-search-everything-you-saw-without-the-cloud.md) · [Read on dev.to](https://dev.to/alichherawalla/best-private-screen-memory-apps-in-2026-search-what-you-saw-no-cloud-35hf)
 
-### 10. Time tracking with no timers
+### 12. Time tracking with no timers
 
 | | Timers needed | Activity stored | AI on your activity | Computers | Price |
 |---|---|---|---|---|---|
@@ -186,7 +212,7 @@ Use it, share it, copy the tables. If something's wrong or missing, [open an iss
 
 [Full list with sources](lists/best-automatic-time-trackers-that-need-no-timers-in-2026-private-your-day-stays-on-your-computer.md) · [Read on dev.to](https://dev.to/alichherawalla/best-automatic-time-trackers-that-need-no-timers-in-2026-private-your-day-stays-on-your-computer-359a)
 
-### 11. Email assistants that never send without you
+### 13. Email assistants that never send without you
 
 | | Sends on its own? | Where the AI reads your mail | Calendar | Price |
 |---|---|---|---|---|
@@ -200,7 +226,7 @@ Use it, share it, copy the tables. If something's wrong or missing, [open an iss
 
 [Full list with sources](lists/best-ai-email-assistants-that-never-send-without-your-approval-in-2026-private-drafts-and-calendar.md) · [Read on dev.to](https://dev.to/alichherawalla/best-ai-email-assistants-that-never-send-without-your-approval-in-2026-private-drafts-and-calendar-43p5)
 
-### 12. AI agents that use your computer with local models
+### 14. AI agents that use your computer with local models
 
 | | Runs on | Local models | Setup | Where it works | Asks before acting | Price |
 |---|---|---|---|---|---|---|
@@ -213,7 +239,7 @@ Use it, share it, copy the tables. If something's wrong or missing, [open an iss
 
 [Full list with sources](lists/best-ai-agents-that-can-use-your-computer-with-local-models-in-2026-no-cloud-computer.md) · [Read on dev.to](https://dev.to/alichherawalla/best-ai-agents-that-can-use-your-computer-with-local-models-in-2026-no-cloud-computer-3dac)
 
-### 13. Browser agents in your own signed-in browser
+### 15. Browser agents in your own signed-in browser
 
 | | Works in | Model runs | Hands sensitive steps to you | Price |
 |---|---|---|---|---|
@@ -227,7 +253,7 @@ Use it, share it, copy the tables. If something's wrong or missing, [open an iss
 
 [Full list with sources](lists/best-ai-browser-agents-that-work-in-your-own-signed-in-browser-in-2026-local-models-no-remote-browser.md) · [Read on dev.to](https://dev.to/alichherawalla/best-ai-browser-agents-that-work-in-your-own-signed-in-browser-in-2026-local-models-no-remote-2k9n)
 
-### 14. Sync phone and computer without a cloud
+### 16. Sync phone and computer without a cloud
 
 | Tool | Does | Phones | Computers | Works over the internet | Price |
 |---|---|---|---|---|---|
@@ -242,7 +268,7 @@ Use it, share it, copy the tables. If something's wrong or missing, [open an iss
 
 ## APIs for open models
 
-### 15. Local models behind an OpenAI-compatible API
+### 17. Local models behind an OpenAI-compatible API
 
 | | Local address | OpenAI routes on its own docs | Images route | Platforms | Licence and cost |
 |---|---|---|---|---|---|
@@ -255,7 +281,7 @@ Use it, share it, copy the tables. If something's wrong or missing, [open an iss
 
 [Full list with sources](lists/best-ways-to-run-local-ai-models-behind-an-openai-compatible-api-in-2026-no-api-key-no-cloud.md) · [Read on dev.to](https://dev.to/alichherawalla/best-ways-to-run-local-ai-models-behind-an-openai-compatible-api-in-2026-no-api-key-no-cloud-28ag)
 
-### 16. Flat-rate APIs for open models
+### 18. Flat-rate APIs for open models
 
 | Service | Price a month | What caps your use | Qwen and DeepSeek | Prompts stored? | Status |
 |---|---|---|---|---|---|
@@ -268,7 +294,7 @@ Use it, share it, copy the tables. If something's wrong or missing, [open an iss
 
 [Full list with sources](lists/best-flat-rate-apis-for-open-models-in-2026-no-per-token-bills.md) · [Read on the web](https://getoffgridai.co/articles/best-flat-rate-apis-for-open-models-in-2026-no-per-token-bills/)
 
-### 17. LLM APIs that don't keep your prompts
+### 19. LLM APIs that don't keep your prompts
 
 | | Stores prompts? | Trains on them? | Price | Limits |
 |---|---|---|---|---|
@@ -285,7 +311,7 @@ Use it, share it, copy the tables. If something's wrong or missing, [open an iss
 
 [Full list with sources](lists/best-private-llm-apis-in-2026-prompts-never-stored-or-trained-on.md) · [Read on the web](https://getoffgridai.co/articles/best-private-llm-apis-in-2026-prompts-never-stored-or-trained-on/)
 
-### 18. Ollama Cloud alternatives
+### 20. Ollama Cloud alternatives
 
 | | How you pay | Entry price a month | Limits | Qwen and DeepSeek | Your prompts |
 |---|---|---|---|---|---|
@@ -299,7 +325,7 @@ Use it, share it, copy the tables. If something's wrong or missing, [open an iss
 
 [Full list with sources](lists/best-ollama-cloud-alternatives-in-2026-flat-price-qwen-included.md) · [Read on the web](https://getoffgridai.co/articles/best-ollama-cloud-alternatives-in-2026-flat-price-qwen-included/)
 
-### 19. OpenRouter alternatives with one monthly bill
+### 21. OpenRouter alternatives with one monthly bill
 
 | Option | How you pay | Price a month | Usage limits | Models | Your prompts | Status |
 |---|---|---|---|---|---|---|
@@ -313,7 +339,7 @@ Use it, share it, copy the tables. If something's wrong or missing, [open an iss
 
 [Full list with sources](lists/best-openrouter-alternatives-with-a-monthly-subscription-in-2026-one-key-one-bill.md) · [Read on the web](https://getoffgridai.co/articles/best-openrouter-alternatives-with-a-monthly-subscription-in-2026-one-key-one-bill/)
 
-### 20. Where to get open models besides Hugging Face
+### 22. Where to get open models besides Hugging Face
 
 | | Best for | Price | You keep the model or hold the key? | Open source? |
 |---|---|---|---|---|
@@ -331,7 +357,7 @@ Use it, share it, copy the tables. If something's wrong or missing, [open an iss
 
 ## What AI subscriptions cost
 
-### 21. Which AI subscriptions one app can replace
+### 23. Which AI subscriptions one app can replace
 
 | Job | Popular subscription | Its price | 3 years | [Off Grid AI](https://getoffgridai.co/) |
 |---|---|---|---|---|
@@ -349,7 +375,7 @@ Use it, share it, copy the tables. If something's wrong or missing, [open an iss
 
 [Full list with sources](lists/which-ai-subscriptions-can-you-replace-with-one-app-in-2026-pay-once-runs-on-your-own-devices.md) · [Read on dev.to](https://dev.to/alichherawalla/which-ai-subscriptions-can-you-replace-with-one-app-in-2026-pay-once-runs-on-your-own-devices-4ke3)
 
-### 22. What popular AI subscriptions cost a year
+### 24. What popular AI subscriptions cost a year
 
 | Tool and plan | Job | Billed monthly | Yearly cost | [Off Grid AI](https://getoffgridai.co/) |
 |---|---|---|---|---|
