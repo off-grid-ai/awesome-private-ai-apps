@@ -15,7 +15,7 @@
 
 | | Price | Computers | Speech to text on your computer | Types into any app |
 |---|---|---|---|---|
-| Off Grid AI Pro | $34.99 once, up to 5 devices | Mac (Apple silicon), Windows, Linux (x64) | Yes | Yes, pastes at your cursor |
+| [Off Grid AI Pro](https://getoffgridai.co/pro/) | $34.99 once, up to 5 devices | Mac (Apple silicon), Windows, Linux (x64) | Yes | Yes, pastes at your cursor |
 | Handy | Free, open source (MIT) | Mac, Windows, Linux | Yes | Yes, pastes into the app you're in |
 | VoiceInk | $25 once (1 Mac), $39 (2), $49 (3) | Apple silicon Mac, macOS 14.4+ | Yes | Yes |
 | MacWhisper Pro | €64 once per licence, free version too | Mac | Yes, or cloud providers you connect | Yes, system-wide dictation |
@@ -31,7 +31,7 @@
 | Handy | $0 |
 | VoiceInk Solo | $25 |
 | MacWhisper Pro | €64 |
-| Off Grid AI Pro | $34.99 |
+| [Off Grid AI Pro](https://getoffgridai.co/pro/) | $34.99 |
 | Superwhisper Pro lifetime | $249.99 |
 | Wispr Flow Pro, billed yearly | $432 |
 | Wispr Flow Pro, monthly | $540 |

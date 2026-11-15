@@ -14,7 +14,7 @@ Checked 16 November 2026 on each provider's own pricing, privacy and docs pages.
 
 | | Stores prompts? | Trains on them? | Price | Limits |
 |---|---|---|---|---|
-| 1. Off Grid AI Boost | No (a stated promise; the full policy comes with launch) | No (same) | From $4.99 a month, fixed. Pre-order now, API key by January 2027 | Limits not yet published |
+| 1. [Off Grid AI Boost](https://getoffgridai.co/boost/) | No (a stated promise; the full policy comes with launch) | No (same) | From $4.99 a month, fixed. Pre-order now, API key by January 2027 | Limits not yet published |
 | 2. DeepInfra | No | No | $0.098 / $0.294 | 200 requests at a time per model |
 | 3. Featherless | No | Not stated | Chat $25 a month flat; Developer $50 a month in credits | Chat: 4 concurrency units, 32K context, people only |
 | 4. Fireworks | No, by default | Not stated | $0.30 / $1.20 | Not on the pricing page |

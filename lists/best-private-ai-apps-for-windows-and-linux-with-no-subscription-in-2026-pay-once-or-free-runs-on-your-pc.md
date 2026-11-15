@@ -16,7 +16,7 @@ Off Grid AI Desktop (OGAD) 0.0.56 is the stable build today. It bundles Pro into
 
 | App | Jobs it covers | Windows | Linux | Price |
 |---|---|---|---|---|
-| **Off Grid AI** | Chat, images, voice, documents free. Pro: meeting notes, dictation, screen memory, time tracking, computer use | Yes, x64 | Yes, x64 AppImage and .deb, Ubuntu 24.04+ | Free. Pro $34.99 once (limited time, regular $119), 5 devices |
+| **[Off Grid AI](https://getoffgridai.co/)** | Chat, images, voice, documents free. Pro: meeting notes, dictation, screen memory, time tracking, computer use | Yes, x64 | Yes, x64 AppImage and .deb, Ubuntu 24.04+ | Free. Pro $34.99 once (limited time, regular $119), 5 devices |
 | [LM Studio](https://lmstudio.ai/pricing) | Chat; Bionic agent | [x64 and ARM](https://lmstudio.ai/docs/app/system-requirements) | [x64 and ARM64 AppImage, Ubuntu 20.04+](https://lmstudio.ai/docs/app/system-requirements) | Free plan with local models; Bionic+ $20 a month |
 | [Jan](https://github.com/janhq/jan) | Chat | [x64 and ARM64](https://www.jan.ai/download) | [Flatpak, AppImage, .deb](https://www.jan.ai/download) | Free, open source (Apache 2.0) |
 | [Ollama](https://ollama.com/download) | Local model runtime and API | Yes, installer | Yes, install script | [Local use free and unlimited](https://ollama.com/pricing); cloud Pro $20 a month |

@@ -22,7 +22,7 @@ We make Off Grid AI. Every rival fact below comes from its own pages, checked 14
 
 | | Sends on its own? | Where the AI reads your mail | Calendar | Price |
 |---|---|---|---|---|
-| 1. Off Grid AI Pro | No. It sends when you ask; its own suggestions wait for your yes | Your computer, local model | Reads Google primary and Outlook calendars; adds Apple Calendar (Mac) or Outlook (Windows) events, and Google events through Web Use | $34.99, paid once, or $7.99 a month |
+| 1. [Off Grid AI Pro](https://getoffgridai.co/pro/) | No. It sends when you ask; its own suggestions wait for your yes | Your computer, local model | Reads Google primary and Outlook calendars; adds Apple Calendar (Mac) or Outlook (Windows) events, and Google events through Web Use | $34.99, paid once, or $7.99 a month |
 | 2. Superhuman Mail | "Never sent automatically" (Auto Drafts) | Cloud; Anthropic and OpenAI listed as subprocessors | Calendar and scheduling | Business $33 a member a month, yearly |
 | 3. Jace | Not by default; auto-send is opt-in | Cloud | Calendars and scheduling | From $20 a month, yearly |
 | 4. Fyxer | No for replies; meeting recaps can go out if you choose | Fyxer's servers | Not listed in detail | Free plan; Pro $37 a month, yearly |

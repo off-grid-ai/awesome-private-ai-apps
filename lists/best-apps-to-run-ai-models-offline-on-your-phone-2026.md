@@ -10,7 +10,7 @@ Every app below downloads a model once, the phone runs it, and after that airpla
 
 | App | Platforms | Runs on the phone, offline | Price (US stores) | Best for |
 |---|---|---|---|---|
-| Off Grid AI | iPhone, Android (also Mac, Windows, Linux) | Yes | Free; Pro optional | Chat, photo questions, voice and images in one app |
+| [Off Grid AI](https://getoffgridai.co/) | iPhone, Android (also Mac, Windows, Linux) | Yes | Free; Pro optional | Chat, photo questions, voice and images in one app |
 | PocketPal | iPhone, iPad, Android | Yes | Free; optional one-time Plus | Plain offline chat on any phone |
 | Google AI Edge Gallery | Android, iPhone | Yes | Free | Trying Google's Gemma models |
 | Locally AI | iPhone, iPad, Mac | Yes | Free | Apple users who want it inside Siri |

@@ -22,7 +22,7 @@ We make Off Grid AI, so weigh our pick with that in mind. Every rival fact below
 
 | | Timers needed | Activity stored | AI on your activity | Computers | Price |
 |---|---|---|---|---|---|
-| 1. Off Grid AI | No | Your disk | Local model | Mac (Apple silicon), Windows, Linux | Free app; Reflect needs Pro, $34.99 paid once, or $7.99 a month |
+| 1. [Off Grid AI](https://getoffgridai.co/) | No | Your disk | Local model | Mac (Apple silicon), Windows, Linux | Free app; Reflect needs Pro, $34.99 paid once, or $7.99 a month |
 | 2. ActivityWatch | No | Your device | Not listed | Windows, macOS, Linux, Android | Free, open source |
 | 3. Memtime | No | Your device | Not listed | Windows, Mac, Linux | From $14 a user a month, billed yearly |
 | 4. Timing | No | Your Mac, unless you use Sync | Google Vertex AI, EU (Expert and up) | macOS only | Expert $11 a month, billed yearly |

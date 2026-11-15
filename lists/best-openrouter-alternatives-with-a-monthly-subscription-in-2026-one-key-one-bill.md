@@ -11,7 +11,7 @@ I build Off Grid AI Boost, so weigh that, and every price below links to its sou
 | Option | How you pay | Price a month | Usage limits | Models | Your prompts | Status |
 |---|---|---|---|---|---|---|
 | OpenRouter (for reference) | Credits, plus a 5.5% fee when you buy them | No plan | Free models: 50 requests a day, or 1,000 after buying $10 of credit; 20 a minute | 600+ | Not trained on; zero retention is a setting | Live |
-| 1. Off Grid AI Boost | Fixed monthly or yearly price | $4.99 to $99.99 (cohort 1) | Limits not yet published | Open models; the page names Qwen 3.8 and DeepSeek V4.1 Flash | Not kept or trained on (stated promise) | Pre-order now, API key by January 2027 |
+| 1. [Off Grid AI Boost](https://getoffgridai.co/boost/) | Fixed monthly or yearly price | $4.99 to $99.99 (cohort 1) | Limits not yet published | Open models; the page names Qwen 3.8 and DeepSeek V4.1 Flash | Not kept or trained on (stated promise) | Pre-order now, API key by January 2027 |
 | 2. NanoGPT PRO | Fixed monthly price | $12 | 60M input tokens a week, 100 images a day | GLM, DeepSeek, Kimi, MiniMax, MiMo, Qwen | Not stored by default; model providers follow their own policies | Live |
 | 3. Hugging Face PRO | Subscription with $2 of credit, then per token | $9 | Set by each provider | 200+ | Set by each provider | Live |
 | 4. Synthetic | Fixed monthly price | $9, $30 or $90 | Weekly credit limits; amounts not published | DeepSeek V4.1 Flash, Qwen3.8-27B, GLM, Kimi | Homepage says never stored; an older policy allowed 14 days | Live |

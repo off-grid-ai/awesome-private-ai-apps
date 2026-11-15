@@ -8,7 +8,7 @@ I build Off Grid AI, one of the apps below. I've tried to be fair, and every fac
 
 | App | Platforms | Stays on your computer | Price | Best for |
 |---|---|---|---|---|
-| Off Grid AI Pro | Mac (Apple silicon), Windows, Linux | Yes, local models | One payment of $34.99 right now (regular $119), or $7.99/month | Memory plus meetings, paid once |
+| [Off Grid AI Pro](https://getoffgridai.co/pro/) | Mac (Apple silicon), Windows, Linux | Yes, local models | One payment of $34.99 right now (regular $119), or $7.99/month | Memory plus meetings, paid once |
 | Screenpipe | macOS 13+, Windows 10+, Linux | Yes by default; local or cloud model | Free (limited history), Basic $250/year | Developers and AI agents |
 | Windows Recall | Windows 11 Copilot+ PCs | Yes, encrypted | Included with the PC | Copilot+ PC owners |
 | Trailback | macOS 13+, Windows 10/11 | Yes, encrypted | One-time, per computer ($9, listed down from $19) | Finding pages and files cheaply |

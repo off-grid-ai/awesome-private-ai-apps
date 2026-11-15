@@ -15,7 +15,7 @@ We make Off Grid AI. Every rival price below comes from that product's own prici
 
 Prices are for one person, in US dollars, before tax. "Yearly cost" uses the cheapest way each product lets you pay, so these totals are as low as they get.
 
-| Tool and plan | Job | Billed monthly | Yearly cost | Off Grid AI |
+| Tool and plan | Job | Billed monthly | Yearly cost | [Off Grid AI](https://getoffgridai.co/) |
 |---|---|---|---|---|
 | [ChatGPT Plus](https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus) | AI chat | $20 | $240 (no yearly plan) | Free, local models |
 | [Granola Business](https://www.granola.ai/pricing) | Meeting notes | $14 | $168 (no yearly price shown) | Pro |

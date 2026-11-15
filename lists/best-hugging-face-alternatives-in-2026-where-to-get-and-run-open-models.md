@@ -22,7 +22,7 @@ Checked 16 November 2026 on each service's own pages.
 
 | | Best for | Price | You keep the model or hold the key? | Open source? |
 |---|---|---|---|---|
-| 1. Off Grid AI | Running open models on your own devices, plus a flat-price API | Apps free. Boost from $4.99 a month (cohort 1), pre-order now, API key by January 2027; limits not yet published | Apps: model on your device. Boost: your own key | Apps yes (MIT mobile, AGPL-3.0 desktop). Boost serving code will be open source |
+| 1. [Off Grid AI](https://getoffgridai.co/) | Running open models on your own devices, plus a flat-price API | Apps free. Boost from $4.99 a month (cohort 1), pre-order now, API key by January 2027; limits not yet published | Apps: model on your device. Boost: your own key | Apps yes (MIT mobile, AGPL-3.0 desktop). Boost serving code will be open source |
 | 2. Ollama | A local model runner with its own library, plus a cloud | Local free. Cloud Pro $20 a month with $60 of credit | Local: model on your computer. Cloud: your key | Yes, MIT |
 | 3. ModelScope | Downloading open models, Qwen especially | Free to download | Model on your disk | Library yes, Apache 2.0 |
 | 4. Kaggle Models | Downloading models and trying them in free notebooks | Free to download | Model on your disk | kagglehub library yes, Apache 2.0 |

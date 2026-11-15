@@ -22,7 +22,7 @@ We make Off Grid AI. Every rival fact below comes from its own pages, checked 14
 
 | | Works in | Model runs | Hands sensitive steps to you | Price |
 |---|---|---|---|---|
-| 1. Off Grid AI | Your Chrome or Firefox | Your computer (OGAD) | Passwords, codes, card numbers, CAPTCHAs, in code | Pro $34.99, paid once |
+| 1. [Off Grid AI](https://getoffgridai.co/) | Your Chrome or Firefox | Your computer (OGAD) | Passwords, codes, card numbers, CAPTCHAs, in code | Pro $34.99, paid once |
 | 2. Nanobrowser | Your Chrome or Edge | Your choice: cloud key or Ollama, LM Studio | Payments, passwords, codes | Free, you pay your model provider |
 | 3. Claude in Chrome | Your Chrome | Anthropic's Claude | Asks before purchases and actions you can't undo | Claude paid plans, from $17 a month yearly |
 | 4. ChatGPT browser extension | Your Chrome, Edge, Brave, Opera, Vivaldi | OpenAI's ChatGPT | Asks before each new site | Not listed on its page |

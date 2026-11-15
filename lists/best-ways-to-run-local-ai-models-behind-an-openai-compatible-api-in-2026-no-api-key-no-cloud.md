@@ -22,7 +22,7 @@ We make Off Grid AI, so weigh our pick with that in mind. Every fact about the o
 
 | | Local address | OpenAI routes on its own docs | Images route | Platforms | Licence and cost |
 |---|---|---|---|---|---|
-| 1. Off Grid AI Desktop | `127.0.0.1:7878/v1` | Chat with vision, completions, embeddings, transcriptions, speech, images, models | Yes | Mac (Apple silicon), Windows x64, Linux x64 | Free, AGPL-3.0 |
+| 1. [Off Grid AI Desktop](https://getoffgridai.co/desktop/) | `127.0.0.1:7878/v1` | Chat with vision, completions, embeddings, transcriptions, speech, images, models | Yes | Mac (Apple silicon), Windows x64, Linux x64 | Free, AGPL-3.0 |
 | 2. Ollama | `localhost:11434/v1` | Chat, completions, embeddings, responses, speech, transcriptions, translations, models | Not listed | macOS, Windows, Linux | Free, MIT |
 | 3. LM Studio | `localhost:1234/v1` in its examples | Chat with images, completions, embeddings, responses, models | Not listed | Apple silicon Mac, Windows x64 and ARM, Linux x64 and ARM64 | Free, including at work |
 | 4. llama.cpp (llama-server) | `127.0.0.1:9931` | Chat, completions, responses, embeddings, rerank, speech for audio models | Not listed | Any; Metal, CUDA, HIP, Vulkan, SYCL, CPU | Free, MIT |

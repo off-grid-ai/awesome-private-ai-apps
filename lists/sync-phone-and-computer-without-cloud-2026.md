@@ -10,7 +10,7 @@ Checked 15 November 2026 on each tool's own site, docs or GitHub.
 
 | Tool | Does | Phones | Computers | Works over the internet | Price |
 |---|---|---|---|---|---|
-| Off Grid AI | Files, clipboard text, chats and projects | iPhone, Android | Mac (Apple silicon), Windows x64, Linux x64 | No, local network only | Sync needs Pro: one payment of $34.99 right now (regular $119), or $7.99/month |
+| [Off Grid AI](https://getoffgridai.co/) | Files, clipboard text, chats and projects | iPhone, Android | Mac (Apple silicon), Windows x64, Linux x64 | No, local network only | Sync needs Pro: one payment of $34.99 right now (regular $119), or $7.99/month |
 | KDE Connect / GSConnect | Files, clipboard text, notifications, SMS | Android, iOS (limited) | Linux, Windows, macOS | Same network, or a VPN | Free |
 | Syncthing | Keeps whole folders in sync | Community apps (Syncthing-Fork, Möbius Sync) | Windows, macOS, Linux, BSD | Yes, through encrypted relays | Free, MPL-2.0 |
 | KeePassXC + a KeePass phone app | Passwords in one encrypted file | KeePassDX (Android), KeePassium or Strongbox (iPhone) | Windows, macOS, Linux | However you move the file | KeePassXC and KeePassDX free; iPhone apps have paid tiers |

@@ -22,7 +22,7 @@ We make Off Grid AI, so read our pick with that in mind. Every fact about the ot
 
 | | Runs on | Local models | Setup | Where it works | Asks before acting | Price |
 |---|---|---|---|---|---|---|
-| 1. Off Grid AI | Mac (Apple silicon), Windows, Linux | Built in | Download the app | Your desktop apps and browser | Yes, each task | Free app; Pro $34.99, paid once, or $7.99 a month |
+| 1. [Off Grid AI](https://getoffgridai.co/) | Mac (Apple silicon), Windows, Linux | Built in | Download the app | Your desktop apps and browser | Yes, each task | Free app; Pro $34.99, paid once, or $7.99 a month |
 | 2. Browser Use | Not listed | Ollama or any OpenAI-compatible server | Python 3.11+ and code | Browser only | Not listed | Free library; cloud browsers $0.06 an hour |
 | 3. Agent Zero | Anywhere Docker runs | Ollama and LM Studio listed | A0 Launcher and Docker | Its own Linux workspace | Its safety notes say review | Free |
 | 4. UI-TARS Desktop | macOS, Windows | Guide uses a hosted endpoint | Download, then set a model URL and key | Desktop and browser | Not listed | Free; repository archived |

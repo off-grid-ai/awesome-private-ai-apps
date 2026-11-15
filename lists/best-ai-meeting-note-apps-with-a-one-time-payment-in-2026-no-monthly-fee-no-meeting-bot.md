@@ -15,7 +15,7 @@ We make Off Grid AI. Every rival fact and price below comes from that app's own 
 
 | App | One-time price | What it records | Where transcription runs | Computers |
 |---|---|---|---|---|
-| Off Grid AI Pro | $34.99 once, up to 5 devices | Call audio, your mic and the screen; auto-starts on Zoom and Google Meet, or press **Record meeting** | Your computer (Whisper); summary by a local model | Mac (Apple silicon), Windows, Linux |
+| [Off Grid AI Pro](https://getoffgridai.co/pro/) | $34.99 once, up to 5 devices | Call audio, your mic and the screen; auto-starts on Zoom and Google Meet, or press **Record meeting** | Your computer (Whisper); summary by a local model | Mac (Apple silicon), Windows, Linux |
 | [MacWhisper](https://macwhisper.com) | €64 once (Pro) | Zoom, Teams, Webex, Skype, Chime, Discord and any app's audio (Pro only) | Your Mac, unless you connect a cloud service | Mac |
 | [Talat](https://talat.app) | $189 lifetime licence | Both sides of Zoom, Teams and Meet calls, started on its own | Your computer; summaries by a built-in Qwen3.5-4B | Mac (Apple silicon, macOS 15+), Windows 10+ |
 | [Anarlog](https://anarlog.so/pricing) (was Hyprnote, then Char) | Free plan | Your device's audio, no bot | Your computer, unlimited on the free plan | Mac; Windows and Linux in beta |

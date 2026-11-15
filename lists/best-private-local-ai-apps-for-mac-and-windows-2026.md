@@ -10,7 +10,7 @@ All seven run open models such as Llama, Gemma and Qwen on your own hardware. On
 
 | App | Platforms | Runs offline, on your device | Price | Best for |
 |---|---|---|---|---|
-| Off Grid AI | Mac (Apple silicon), Windows (x64), Linux (x64), plus iPhone and Android | Yes | Free core; Pro optional | One private app for chat, images, voice and documents, on computer and phone |
+| [Off Grid AI](https://getoffgridai.co/) | Mac (Apple silicon), Windows (x64), Linux (x64), plus iPhone and Android | Yes | Free core; Pro optional | One private app for chat, images, voice and documents, on computer and phone |
 | LM Studio | Mac (Apple silicon), Windows (x64, ARM), Linux | Yes | Free for personal and internal business use | Trying many models with the least setup |
 | Jan | Mac, Windows, Linux | Yes, with local models | Free, open source | An open-source ChatGPT-style app |
 | Ollama | Mac, Windows, Linux | Yes | Free locally; cloud plans from $20/month | Developers, and as the engine behind other apps |

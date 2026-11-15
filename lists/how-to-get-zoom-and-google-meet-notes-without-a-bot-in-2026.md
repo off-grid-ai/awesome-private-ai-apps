@@ -8,7 +8,7 @@ I build Off Grid AI, one of the apps below. I've tried to be fair, and every fac
 
 | App | Platforms | Transcribes on your computer | Price | Best for |
 |---|---|---|---|---|
-| Off Grid AI Pro | Mac (Apple silicon), Windows, Linux | Yes | One payment of $34.99 right now (regular $119), or $7.99/month | Private notes on any computer |
+| [Off Grid AI Pro](https://getoffgridai.co/pro/) | Mac (Apple silicon), Windows, Linux | Yes | One payment of $34.99 right now (regular $119), or $7.99/month | Private notes on any computer |
 | MacWhisper | Mac | Yes | Free, Pro €64 once | Free and private on a Mac |
 | Granola | macOS, Windows, iOS, Android | No (Deepgram, AssemblyAI) | Free (30 days of history), Business $14/user/month | Shared team notes |
 | Krisp | Windows, macOS | English only | Core $8/month yearly, $16 monthly | Noisy rooms |

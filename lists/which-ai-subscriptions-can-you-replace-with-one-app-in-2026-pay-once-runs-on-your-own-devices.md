@@ -20,7 +20,7 @@ We make Off Grid AI. Every rival fact below comes from its own pages, checked 14
 
 ## Ten AI subscriptions and what replaces them
 
-| Job | Popular subscription | Its price | 3 years | Off Grid AI |
+| Job | Popular subscription | Its price | 3 years | [Off Grid AI](https://getoffgridai.co/) |
 |---|---|---|---|---|
 | Private ChatGPT-style chat | [ChatGPT Plus](https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus) | $20 a month, no yearly plan | $720 | Free. Local chat, answers from your files, voice |
 | Meeting notes without a bot | [Granola Business](https://www.granola.ai/pricing) | $14 a user a month | $504 | Pro. Meetings on Mac, Windows, Linux |

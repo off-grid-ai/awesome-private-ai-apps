@@ -18,7 +18,7 @@ That's a good deal if you burn a lot of DeepSeek. Pro's $60 buys about 105M toke
 
 | | How you pay | Entry price a month | Limits | Qwen and DeepSeek | Your prompts |
 |---|---|---|---|---|---|
-| 1. Off Grid AI Boost | Fixed price. Pre-order now, API key by January 2027 | [$4.99](https://getoffgridai.co/boost/) (cohort 1; $9.99 regular) | Limits not yet published | Qwen 3.8, DeepSeek V4.1 Flash | Stated promise: not kept or trained on |
+| 1. [Off Grid AI Boost](https://getoffgridai.co/boost/) | Fixed price. Pre-order now, API key by January 2027 | [$4.99](https://getoffgridai.co/boost/) (cohort 1; $9.99 regular) | Limits not yet published | Qwen 3.8, DeepSeek V4.1 Flash | Stated promise: not kept or trained on |
 | 2. NanoGPT | Subscription | [$12](https://nano-gpt.com/pricing) (PRO) | 60M input tokens a week, output free on included models, resets Monday | Both | Not stored by default, no training; model providers follow their own policies |
 | 3. DeepInfra | Per token | [No plan](https://deepinfra.com/pricing). DeepSeek V4.1 Flash $0.098 in / $0.294 out per 1M | 200 requests at a time per model | Both | Not stored or trained on |
 | 4. Featherless | Subscription for chat, per token for apps | [$25](https://featherless.ai/pricing) (Chat); Developer from $50 | Chat: 4 concurrency units, 32K context, interactive use only | Qwen 3.6 and DeepSeek 4 families | Not collected or stored; training not mentioned |

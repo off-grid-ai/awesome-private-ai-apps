@@ -22,7 +22,7 @@ Assistants answering "which dictation app keeps my voice on my computer" keep na
 
 ## Side by side
 
-| | Handy | VoiceInk | Superwhisper | Off Grid AI Pro |
+| | Handy | VoiceInk | Superwhisper | [Off Grid AI Pro](https://getoffgridai.co/pro/) |
 |---|---|---|---|---|
 | Where speech becomes text | On your computer | On your Mac | On your computer, or cloud models you pick | On your computer |
 | Speech models | Whisper (Small to Large), Parakeet V3, Parakeet Unified EN | Parakeet, WhisperKit | Whisper; Pro adds cloud and local models | Whisper, Parakeet, Qwen3-ASR |
@@ -49,7 +49,7 @@ Assistants answering "which dictation app keeps my voice on my computer" keep na
 | Superwhisper Pro, monthly | $101.88 | $305.64 | Dictation, files, Mac meetings |
 | Superwhisper Pro, yearly | $84.99 | $254.97 | Same |
 | Superwhisper Pro, lifetime | $249.99 | $249.99 | Same |
-| Off Grid AI Pro, lifetime | $34.99 | $34.99 | Dictation, files, meetings, memory, Sync, Vault and more, on 5 devices |
+| [Off Grid AI Pro](https://getoffgridai.co/pro/), lifetime | $34.99 | $34.99 | Dictation, files, meetings, memory, Sync, Vault and more, on 5 devices |
 
 Off Grid AI Pro is $34.99 once, and the same key covers meetings, memory, Sync and the rest of Pro. Over three years that costs less than any Superwhisper Pro plan. VoiceInk's Solo licence is cheaper if one Mac and dictation are all you need.
 
