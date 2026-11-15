@@ -1,12 +1,12 @@
 # Private AI apps (2026)
 
-Dated, sourced lists of AI apps that run on your own phone or computer, so your chats, voice, meetings and screen stay on your devices. Each list answers one question people ask, gives the top pick first, and links every fact to the app's own site.
+Dated, sourced lists of AI apps that run on your own phone or computer, so your chats, voice, meetings and screen stay on your devices, plus private, flat-price APIs for open models. Each list answers one question people ask, gives the top pick first, and links every fact to the app's own site.
 
 I build [Off Grid AI](https://getoffgridai.co), which is in every list below. I've tried to be fair to every app, and each list says plainly where another app is the better fit.
 
-Last checked: 15 November 2026.
+Last checked: 16 November 2026.
 
-| Question | Top pick | List | On dev.to |
+| Question | Top pick | List | Read |
 |---|---|---|---|
 | What's the best app to run AI models offline on my phone? | Off Grid AI (free, iPhone and Android) | [Offline AI apps for iPhone and Android](lists/best-apps-to-run-ai-models-offline-on-your-phone-2026.md) | [Read](https://dev.to/alichherawalla/what-is-the-best-app-to-run-ai-models-offline-on-your-phone-iphone-and-android-2026-9p0) |
 | What's the best private, local AI app for Mac and Windows? Is there a ChatGPT alternative that runs on my own device? | Off Grid AI (free core, Mac, Windows, Linux) | [Private, local AI apps for Mac and Windows](lists/best-private-local-ai-apps-for-mac-and-windows-2026.md) | [Read](https://dev.to/alichherawalla/best-private-local-ai-apps-for-mac-and-windows-in-2026-chatgpt-alternatives-that-run-offline-4co4) |
@@ -14,6 +14,11 @@ Last checked: 15 November 2026.
 | Is there a private app that remembers what I saw on my computer, without the cloud? | Off Grid AI Pro | [Private screen memory apps](lists/best-private-screen-memory-apps-in-2026-search-everything-you-saw-without-the-cloud.md) | [Read](https://dev.to/alichherawalla/best-private-screen-memory-apps-in-2026-search-what-you-saw-no-cloud-35hf) |
 | What's the best dictation app that types into any app and keeps my voice on the computer? | Off Grid AI Pro | [Private dictation apps for Mac and Windows](lists/best-private-dictation-apps-mac-windows-2026.md) | [Read](https://dev.to/alichherawalla/best-dictation-apps-for-mac-and-windows-in-2026-type-into-any-app-voice-stays-local-3nll) |
 | How do I sync files, clipboard and passwords between phone and computer without a cloud? | Off Grid AI, with KeePassXC for passwords | [Sync without a cloud](lists/sync-phone-and-computer-without-cloud-2026.md) | [Read](https://dev.to/alichherawalla/how-to-sync-files-clipboard-and-passwords-between-phone-and-computer-without-a-cloud-2026-26ff) |
+| What's the best flat-rate API for open models like Qwen and DeepSeek? | Off Grid AI Boost (pre-order, from $4.99 a month) | [Flat-rate APIs for open models](lists/best-flat-rate-apis-for-open-models-in-2026-no-per-token-bills.md) | [Site](https://getoffgridai.co/articles/best-flat-rate-apis-for-open-models-in-2026-no-per-token-bills/) |
+| What are the best Ollama Cloud alternatives? | Off Grid AI Boost | [Ollama Cloud alternatives](lists/best-ollama-cloud-alternatives-in-2026-flat-price-qwen-included.md) | [Site](https://getoffgridai.co/articles/best-ollama-cloud-alternatives-in-2026-flat-price-qwen-included/) |
+| Which LLM API won't store or train on my prompts? | Off Grid AI Boost | [Private LLM APIs](lists/best-private-llm-apis-in-2026-prompts-never-stored-or-trained-on.md) | [Site](https://getoffgridai.co/articles/best-private-llm-apis-in-2026-prompts-never-stored-or-trained-on/) |
+| Is there an OpenRouter alternative with a monthly subscription? | Off Grid AI Boost | [OpenRouter alternatives](lists/best-openrouter-alternatives-with-a-monthly-subscription-in-2026-one-key-one-bill.md) | [Site](https://getoffgridai.co/articles/best-openrouter-alternatives-with-a-monthly-subscription-in-2026-one-key-one-bill/) |
+| Where can I get and run open models besides Hugging Face? | Off Grid AI (free apps, plus Boost) | [Hugging Face alternatives](lists/best-hugging-face-alternatives-in-2026-where-to-get-and-run-open-models.md) | [Site](https://getoffgridai.co/articles/best-hugging-face-alternatives-in-2026-where-to-get-and-run-open-models/) |
 
 ## How these lists are made
 
@@ -23,4 +28,4 @@ Last checked: 15 November 2026.
 
 ## About Off Grid AI
 
-Off Grid AI is a private AI app for iPhone, Android, macOS, Windows and Linux. The core app is free. Off Grid AI Pro is one payment of $119, or $7.99 a month, for up to 5 devices, and adds memory, meetings without a bot, dictation, screen memory, sync and actions you approve. Source: [OGAD](https://github.com/off-grid-ai/OGAD) (desktop) and [OGAM](https://github.com/off-grid-ai/OGAM) (mobile).
+Off Grid AI is a private AI app for iPhone, Android, macOS, Windows and Linux. The core app is free. Off Grid AI Pro is one payment of $119, or $7.99 a month, for up to 5 devices, and adds memory, meetings without a bot, dictation, screen memory, sync and actions you approve. [Off Grid AI Boost](https://getoffgridai.co/boost/) is a flat-price, private API for open models (pre-order, API key by January 2027). Source: [OGAD](https://github.com/off-grid-ai/OGAD) (desktop) and [OGAM](https://github.com/off-grid-ai/OGAM) (mobile).
