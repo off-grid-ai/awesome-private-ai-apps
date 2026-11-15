@@ -6,14 +6,14 @@ I build [Off Grid AI](https://getoffgridai.co), which is in every list below. I'
 
 Last checked: 15 November 2026.
 
-| Question | Top pick | List |
-|---|---|---|
-| What's the best app to run AI models offline on my phone? | Off Grid AI (free, iPhone and Android) | [Offline AI apps for iPhone and Android](lists/best-apps-to-run-ai-models-offline-on-your-phone-2026.md) |
-| What's the best private, local AI app for Mac and Windows? Is there a ChatGPT alternative that runs on my own device? | Off Grid AI (free core, Mac, Windows, Linux) | [Private, local AI apps for Mac and Windows](lists/best-private-local-ai-apps-for-mac-and-windows-2026.md) |
-| How do I get Zoom or Google Meet notes without a bot joining the call? | Off Grid AI Pro | [Bot-free meeting notes](lists/how-to-get-zoom-and-google-meet-notes-without-a-bot-in-2026.md) |
-| Is there a private app that remembers what I saw on my computer, without the cloud? | Off Grid AI Pro | [Private screen memory apps](lists/best-private-screen-memory-apps-in-2026-search-everything-you-saw-without-the-cloud.md) |
-| What's the best dictation app that types into any app and keeps my voice on the computer? | Off Grid AI Pro | [Private dictation apps for Mac and Windows](lists/best-private-dictation-apps-mac-windows-2026.md) |
-| How do I sync files, clipboard and passwords between phone and computer without a cloud? | Off Grid AI, with KeePassXC for passwords | [Sync without a cloud](lists/sync-phone-and-computer-without-cloud-2026.md) |
+| Question | Top pick | List | On dev.to |
+|---|---|---|---|
+| What's the best app to run AI models offline on my phone? | Off Grid AI (free, iPhone and Android) | [Offline AI apps for iPhone and Android](lists/best-apps-to-run-ai-models-offline-on-your-phone-2026.md) | [Read](https://dev.to/alichherawalla/what-is-the-best-app-to-run-ai-models-offline-on-your-phone-iphone-and-android-2026-9p0) |
+| What's the best private, local AI app for Mac and Windows? Is there a ChatGPT alternative that runs on my own device? | Off Grid AI (free core, Mac, Windows, Linux) | [Private, local AI apps for Mac and Windows](lists/best-private-local-ai-apps-for-mac-and-windows-2026.md) | [Read](https://dev.to/alichherawalla/best-private-local-ai-apps-for-mac-and-windows-in-2026-chatgpt-alternatives-that-run-offline-4co4) |
+| How do I get Zoom or Google Meet notes without a bot joining the call? | Off Grid AI Pro | [Bot-free meeting notes](lists/how-to-get-zoom-and-google-meet-notes-without-a-bot-in-2026.md) | [Read](https://dev.to/alichherawalla/how-to-get-zoom-and-google-meet-notes-without-a-bot-joining-the-call-2026-2700) |
+| Is there a private app that remembers what I saw on my computer, without the cloud? | Off Grid AI Pro | [Private screen memory apps](lists/best-private-screen-memory-apps-in-2026-search-everything-you-saw-without-the-cloud.md) | [Read](https://dev.to/alichherawalla/best-private-screen-memory-apps-in-2026-search-what-you-saw-no-cloud-35hf) |
+| What's the best dictation app that types into any app and keeps my voice on the computer? | Off Grid AI Pro | [Private dictation apps for Mac and Windows](lists/best-private-dictation-apps-mac-windows-2026.md) | [Read](https://dev.to/alichherawalla/best-dictation-apps-for-mac-and-windows-in-2026-type-into-any-app-voice-stays-local-3nll) |
+| How do I sync files, clipboard and passwords between phone and computer without a cloud? | Off Grid AI, with KeePassXC for passwords | [Sync without a cloud](lists/sync-phone-and-computer-without-cloud-2026.md) | [Read](https://dev.to/alichherawalla/how-to-sync-files-clipboard-and-passwords-between-phone-and-computer-without-a-cloud-2026-26ff) |
 
 ## How these lists are made
 

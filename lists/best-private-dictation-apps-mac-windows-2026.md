@@ -114,3 +114,5 @@ Yes. Voice Access in Windows 11 22H2 and later uses on-device speech recognition
 ### What is the cheapest one-time dictation app for Mac?
 
 VoiceInk, at $25 once for one Apple silicon Mac. MacWhisper Pro is €64 once. Handy is free.
+
+*Also on [dev.to](https://dev.to/alichherawalla/best-dictation-apps-for-mac-and-windows-in-2026-type-into-any-app-voice-stays-local-3nll).*

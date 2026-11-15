@@ -86,3 +86,5 @@ Yes. Without a bot, nobody sees a recorder in the call, so say you're taking not
 ### Does Gemini in Meet work on Zoom calls?
 
 No. Take notes for me works only in Google Meet, and Zoom's summaries work only in Zoom. For calls on both, use a desktop app that captures system audio.
+
+*Also on [dev.to](https://dev.to/alichherawalla/how-to-get-zoom-and-google-meet-notes-without-a-bot-joining-the-call-2026-2700).*

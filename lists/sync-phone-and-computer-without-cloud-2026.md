@@ -96,3 +96,5 @@ No. Its Vault stays on one computer and the phone app has no vault, so use KeePa
 ### Does Syncthing send my files through someone else's server?
 
 Only when your devices can't connect directly. Then a relay forwards the traffic, still encrypted end to end, and sees your IP address and how much data moves, never the files.
+
+*Also on [dev.to](https://dev.to/alichherawalla/how-to-sync-files-clipboard-and-passwords-between-phone-and-computer-without-a-cloud-2026-26ff).*

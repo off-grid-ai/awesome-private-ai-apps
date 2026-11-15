@@ -70,3 +70,5 @@ Yes. Screenpipe has a free plan with limited history, and OpenRecall is free and
 ### How much disk space does screen memory use?
 
 It depends on the app and your settings. Screenpipe estimates about 30 GB a month, with retention you can change. Recall needs 50 GB free to turn on and pauses when free space drops below 25 GB.
+
+*Also on [dev.to](https://dev.to/alichherawalla/best-private-screen-memory-apps-in-2026-search-what-you-saw-no-cloud-35hf).*

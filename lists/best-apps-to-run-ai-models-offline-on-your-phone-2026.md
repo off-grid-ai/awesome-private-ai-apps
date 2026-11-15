@@ -109,3 +109,5 @@ Yes, once you've downloaded a model. A few have optional online extras, such as 
 ### Which offline phone AI app can make images?
 
 Off Grid AI, with Stable Diffusion models, and Layla, with Stable Diffusion 1.5. The other apps on this list don't list image generation.
+
+*Also on [dev.to](https://dev.to/alichherawalla/what-is-the-best-app-to-run-ai-models-offline-on-your-phone-iphone-and-android-2026-9p0).*

@@ -103,3 +103,5 @@ You need enough memory more than a fast processor. LM Studio recommends 16 GB of
 ### Is a local model as good as ChatGPT?
 
 For the hardest reasoning and the newest knowledge, ChatGPT still wins. For drafting, summarising, rewriting and questions about your own files, a good open model on a recent laptop does the job, and nothing you type leaves the machine.
+
+*Also on [dev.to](https://dev.to/alichherawalla/best-private-local-ai-apps-for-mac-and-windows-in-2026-chatgpt-alternatives-that-run-offline-4co4).*
