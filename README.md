@@ -1,6 +1,6 @@
 # The Best Private AI Apps in 2026
 
-Every app we could find that runs AI on your own phone or computer, the APIs for open models that don't keep your prompts, and what the paid alternatives cost. 24 lists, each with its full comparison: platforms, prices, limits and what it's best for. Every fact links to its source in the full list. Checked 14 to 16 November 2026.
+Every app we could find that runs AI on your own phone or computer, the APIs for open models that don't keep your prompts, and what the paid alternatives cost. 24 lists, each with its full comparison: platforms, prices, limits and what it's best for. Every fact links to its source in the full list.
 
 Use it, share it, copy the tables. If something's wrong or missing, [open an issue](https://github.com/off-grid-ai/private-ai-apps/issues) with a link and we'll fix it.
 
