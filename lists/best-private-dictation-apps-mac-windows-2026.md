@@ -2,8 +2,6 @@
 
 The best pick is Off Grid AI Pro, because one payment of $34.99 right now (regular $119) gets you dictation into any app on Mac, Windows and Linux, on up to 5 devices, with your voice transcribed on your own computer and meetings and memory included. If you want to pay nothing, Handy is free, open source and local on all three systems. If you have one Mac and only want dictation, VoiceInk is $25 once.
 
-I build Off Grid AI, one of the apps below. I've tried to be fair, and every fact links to its source.
-
 ## The apps compared
 
 

@@ -102,7 +102,7 @@ Source: [OpenRouter pricing](https://openrouter.ai/pricing).
 A per-token API on Groq's own chips, pitched on speed. It serves qwen3.8-27b and has no DeepSeek.
 
 - **Best for:** quick prototypes on Qwen 3.8 27B.
-- **Price:** no plan, and its pricing page showed no prices when we checked, so we've left the per-token price out.
+- **Price:** no plan, and its pricing page lists no per-token price.
 - **Limits:** for qwen3.8-27b, the rate-limit page lists 30 requests a minute, 1K requests a day and 200K tokens a day.
 - **Privacy:** doesn't keep data by default, but may hold it for up to 30 days for abuse checks ([your data](https://console.groq.com/docs/your-data)). Training isn't mentioned.
 - **The catch:** 200K tokens a day won't carry much of an agent loop, and there's no DeepSeek.

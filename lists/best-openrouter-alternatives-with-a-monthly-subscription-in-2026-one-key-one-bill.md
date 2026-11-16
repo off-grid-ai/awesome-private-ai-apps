@@ -2,8 +2,6 @@
 
 Per-token billing is fine until an agent loop runs all night, or a batch job retries a few thousand times, and the bill is different every month. If you want one API key for open models and a bill you know in advance, the best OpenRouter alternative in 2026 is **Off Grid AI Boost**. It has a fixed monthly price with no credit meter, from $4.99, and it promises not to keep or train on your prompts. It's a pre-order now, and the API key arrives by January 2027.
 
-I build Off Grid AI Boost, so weigh that, and every price below links to its source.
-
 **[See the Boost plans](https://getoffgridai.co/boost/)**
 
 ## The comparison

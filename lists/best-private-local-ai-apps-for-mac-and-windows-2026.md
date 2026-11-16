@@ -2,8 +2,6 @@
 
 Yes, and the best one is Off Grid AI. It's one private app that chats, makes images, handles voice and answers from your documents on Mac, Windows and Linux. The same app runs on your phone, and the core is free. If you mostly want to try lots of models, LM Studio is the strongest alternative, free for personal and work use, and Jan is the best fully open-source pick.
 
-I build Off Grid AI, one of the apps below. I've tried to be fair, and every fact links to its source.
-
 All seven run open models such as Llama, Gemma and Qwen on your own hardware. Once a model is downloaded, your prompts never leave the machine and you don't need an internet connection.
 
 ## The apps at a glance

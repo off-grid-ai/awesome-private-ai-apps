@@ -2,8 +2,6 @@
 
 The best way is Off Grid AI Pro. It records the call on your own computer, with no bot in Zoom, Meet or Teams, then writes the transcript and summary there with local models, on Mac, Windows or Linux, for one payment of $34.99 right now (regular $119). The best free alternative is MacWhisper's free version on a Mac. For shared team notes in the cloud, Granola is the most polished, and Zoom's and Google Meet's built-in summaries add no bot either.
 
-I build Off Grid AI, one of the apps below. I've tried to be fair, and every fact links to its source.
-
 ## The quick comparison
 
 | App | Platforms | Transcribes on your computer | Price | Best for |

@@ -2,8 +2,6 @@
 
 The best app to run AI models offline on your phone is Off Grid AI. One free app on iPhone and Android chats, answers questions about your photos, takes voice input through Whisper and makes images on the phone, and the same app runs on your Mac or PC. If plain offline chat is all you want, PocketPal is the best free alternative, and on an iPhone, Locally AI is a good free Apple-only pick.
 
-I build Off Grid AI, one of the apps below. I've tried to be fair, and every fact links to its source.
-
 Every app below downloads a model once, the phone runs it, and after that airplane mode is fine. What separates them is which phones they support, what they do beyond chat, and whether anyone still updates them.
 
 ## The apps at a glance

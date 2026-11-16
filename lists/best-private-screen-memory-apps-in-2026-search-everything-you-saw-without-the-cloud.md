@@ -2,8 +2,6 @@
 
 The best private screen memory in 2026 is Off Grid AI Pro. It saves what was on your screen to your own disk and reads it with a local model on Mac, Windows or Linux, with no Copilot+ PC needed, and the same app records meetings and reviews your day, for one payment of $34.99 right now (regular $119). The best free alternative is Screenpipe's free plan, or Windrecorder on Windows, and if you already own a Copilot+ PC, Windows Recall is built in.
 
-I build Off Grid AI, one of the apps below. I've tried to be fair, and every fact links to its source.
-
 ## The quick comparison
 
 | App | Platforms | Stays on your computer | Price | Best for |
@@ -31,7 +29,7 @@ Recall saves encrypted snapshots every few seconds and searches them on the PC. 
 
 ## 4. Trailback
 
-[Trailback](https://trailback.app) saves the web pages, files, screenshots and copied text you use, then lets you search by describing what you remember, in 10 languages. Its site says it never records your screen or audio, skips passwords and card numbers, and goes online only for licence checks and updates. It's a one-time licence per computer, listed at $9 down from $19 when I checked. Pick it if what you usually lose is a page or a document.
+[Trailback](https://trailback.app) saves the web pages, files, screenshots and copied text you use, then lets you search by describing what you remember, in 10 languages. Its site says it never records your screen or audio, skips passwords and card numbers, and goes online only for licence checks and updates. It's a one-time licence per computer, listed at $9 down from $19. Pick it if what you usually lose is a page or a document.
 
 ## 5. Windrecorder
 

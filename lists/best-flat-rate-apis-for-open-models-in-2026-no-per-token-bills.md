@@ -4,8 +4,6 @@ Per-token pricing is fine until an agent loop retries all night, or a batch job 
 
 **[See the Boost plans →](https://getoffgridai.co/boost/)**
 
-I build Off Grid AI Boost, so weigh that, and every price below links to its source.
-
 ## The flat-rate APIs compared
 
 
@@ -43,7 +41,7 @@ Boost is hosted inference for open models on our own GPUs. One API key covers ev
 - **Limits:** not yet published. The page doesn't say what separates the four plans.
 - **Privacy:** "We don't keep your prompts or train on them." That's our stated promise. A Boost privacy policy hasn't been published yet.
 - **Open source:** the serving code will be open source. No repo is out yet.
-- **Status:** pre-order now on Stripe, API key by January 2027. I haven't reviewed it as a running service because it isn't one yet. The page doesn't say which Qwen 3.8 size you get.
+- **Status:** pre-order now on Stripe, API key by January 2027. The page doesn't say which Qwen 3.8 size you get.
 
 More detail in the [Boost explainer](https://getoffgridai.co/articles/a-flat-price-private-api-for-open-models-in-2026-qwen-and-deepseek-with-no-per-token-bills/). Source: [getoffgridai.co/boost](https://getoffgridai.co/boost/).
 

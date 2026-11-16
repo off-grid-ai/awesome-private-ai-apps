@@ -105,7 +105,7 @@ A per-token host where some models run inside secure hardware enclaves, marked T
 
 A host built for speed on its own chips. It carries qwen3.8-27b but no DeepSeek. Its [data docs](https://console.groq.com/docs/your-data) say it doesn't keep data by default, but may hold it for up to 30 days for abuse checks. Training isn't mentioned.
 
-**Price.** Per token. Its pricing page showed no prices when I checked. qwen3.8-27b allows 30 requests a minute, 1,000 a day and 200K tokens a day ([rate limits](https://console.groq.com/docs/rate-limits)).
+**Price.** Per token. Its pricing page lists no prices. qwen3.8-27b allows 30 requests a minute, 1,000 a day and 200K tokens a day ([rate limits](https://console.groq.com/docs/rate-limits)).
 
 **Pick it if** latency matters most, as in voice apps, and a 30-day abuse hold is fine.
 

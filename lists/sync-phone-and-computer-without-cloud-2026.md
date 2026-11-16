@@ -2,8 +2,6 @@
 
 The best pick is Off Grid AI, because one app syncs your files, copied text and AI chats between your phone and computer over your local network, with no account and no server in the middle. Its vault doesn't sync, so pair it with KeePassXC for passwords. If you want a free alternative for files and clipboard, KDE Connect is the one to try, and Syncthing is the free choice for keeping whole folders in sync.
 
-I build Off Grid AI, one of the apps below. I've tried to be fair, and every fact links to its source.
-
 ## The tools compared
 
 
