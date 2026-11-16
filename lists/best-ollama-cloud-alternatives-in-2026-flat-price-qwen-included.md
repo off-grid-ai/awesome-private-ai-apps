@@ -12,7 +12,7 @@ Pro costs $20 a month and gives you $60 of usage. Max costs $100 for $300 of usa
 
 That's a good deal if you burn a lot of DeepSeek. Pro's $60 buys about 105M tokens of DeepSeek V4.1 Flash at standard prices (assuming 70% input and 30% output), or about 210M if everything runs off-peak. The trouble starts when you want a bill you can put in a budget before the month begins, or a Qwen model.
 
-## The alternatives at a glance (checked 16 November 2026)
+## The alternatives at a glance
 
 | | How you pay | Entry price a month | Limits | Qwen and DeepSeek | Your prompts |
 |---|---|---|---|---|---|

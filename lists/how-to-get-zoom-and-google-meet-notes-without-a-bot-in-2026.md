@@ -4,7 +4,7 @@ The best way is Off Grid AI Pro. It records the call on your own computer, with 
 
 I build Off Grid AI, one of the apps below. I've tried to be fair, and every fact links to its source.
 
-## The quick comparison (checked 15 November 2026)
+## The quick comparison
 
 | App | Platforms | Transcribes on your computer | Price | Best for |
 |---|---|---|---|---|

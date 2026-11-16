@@ -29,7 +29,7 @@ Prices are for one person, in US dollars, before tax. "Yearly cost" uses the che
 | [Rewind / Limitless](https://www.limitless.ai/) | Screen memory | No longer sold | Not counted | Pro (Memory) |
 | **All 11 priced tools** | | **$1,589.40 a year** | **$1,234.70** | **$34.99 once** |
 
-*Checked 14 November 2026 on each linked page. ChatGPT, Granola, Otter, Fireflies, Wispr Flow, Superwhisper and Raycast also have free plans with limits. Otter showed a 50% first-time offer on Pro that day; we used its listed price. Superwhisper also sells Pro for $249.99 lifetime, and Paste lists a lifetime plan without a price on its page. Off Grid AI's $34.99 is a limited-time lifetime price, down from $119.*
+*ChatGPT, Granola, Otter, Fireflies, Wispr Flow, Superwhisper and Raycast also have free plans with limits. Otter showed a 50% first-time offer on Pro that day; we used its listed price. Superwhisper also sells Pro for $249.99 lifetime, and Paste lists a lifetime plan without a price on its page. Off Grid AI's $34.99 is a limited-time lifetime price, down from $119.*
 
 **Rewind is gone.** Meta bought Limitless, the company that made Rewind. Limitless says it no longer sells to new customers and is sunsetting non-Pendant features like Rewind, and the rewind.ai address now sells token packs for a different product. That's why it has no price in the table.
 
@@ -77,7 +77,7 @@ OGAD needs a Mac with Apple silicon, Windows, or Linux on x64 with Ubuntu 24.04 
 ## FAQ
 
 **How much do AI subscriptions cost per year in 2026?**
-Eleven popular ones, from ChatGPT Plus to Granola and Wispr Flow, cost $1,234.70 a year together on their cheapest plans, and $1,589.40 if you pay month to month. One tool per job, Granola, Wispr Flow, Rize, Paste, 1Password and ChatGPT Plus, comes to $749.75 a year. Prices are from each product's own page, checked 14 November 2026.
+Eleven popular ones, from ChatGPT Plus to Granola and Wispr Flow, cost $1,234.70 a year together on their cheapest plans, and $1,589.40 if you pay month to month. One tool per job, Granola, Wispr Flow, Rize, Paste, 1Password and ChatGPT Plus, comes to $749.75 a year. Prices are from each product's own page.
 
 **How much is ChatGPT Plus per year?**
 $240. OpenAI's help page lists Plus at $20 a month, billed monthly, and says there is no annual plan or way to pay months in advance, so there is no yearly discount.

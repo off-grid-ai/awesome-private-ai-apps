@@ -6,7 +6,7 @@ I build Off Grid AI, one of the apps below. I've tried to be fair, and every fac
 
 Every app below downloads a model once, the phone runs it, and after that airplane mode is fine. What separates them is which phones they support, what they do beyond chat, and whether anyone still updates them.
 
-## The apps at a glance (checked 15 November 2026)
+## The apps at a glance
 
 | App | Platforms | Runs on the phone, offline | Price (US stores) | Best for |
 |---|---|---|---|---|

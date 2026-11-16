@@ -6,7 +6,7 @@ I build Off Grid AI Boost, so weigh that, and every price below links to its sou
 
 **[See the Boost plans](https://getoffgridai.co/boost/)**
 
-## The comparison (checked 16 November 2026)
+## The comparison
 
 | Option | How you pay | Price a month | Usage limits | Models | Your prompts | Status |
 |---|---|---|---|---|---|---|

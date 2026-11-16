@@ -6,7 +6,7 @@ I build Off Grid AI, one of the apps below. I've tried to be fair, and every fac
 
 All seven run open models such as Llama, Gemma and Qwen on your own hardware. Once a model is downloaded, your prompts never leave the machine and you don't need an internet connection.
 
-## The apps at a glance (checked 15 November 2026)
+## The apps at a glance
 
 | App | Platforms | Runs offline, on your device | Price | Best for |
 |---|---|---|---|---|

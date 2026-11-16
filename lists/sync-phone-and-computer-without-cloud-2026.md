@@ -6,7 +6,6 @@ I build Off Grid AI, one of the apps below. I've tried to be fair, and every fac
 
 ## The tools compared
 
-Checked 15 November 2026 on each tool's own site, docs or GitHub.
 
 | Tool | Does | Phones | Computers | Works over the internet | Price |
 |---|---|---|---|---|---|

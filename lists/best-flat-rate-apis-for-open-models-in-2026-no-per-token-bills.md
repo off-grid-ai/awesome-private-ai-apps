@@ -8,7 +8,6 @@ I build Off Grid AI Boost, so weigh that, and every price below links to its sou
 
 ## The flat-rate APIs compared
 
-Checked 16 November 2026 on each service's own pricing page.
 
 | Service | Price a month | What caps your use | Qwen and DeepSeek | Prompts stored? | Status |
 |---|---|---|---|---|---|

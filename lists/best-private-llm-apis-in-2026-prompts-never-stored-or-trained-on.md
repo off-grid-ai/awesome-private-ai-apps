@@ -2,13 +2,13 @@
 
 You wire an agent to an open model, it loops overnight, and two things bite. The bill is different every month, and you're not sure who kept the prompts, which held your users' data and your code. The best private LLM API for that in 2026 is **Off Grid AI Boost**, because it promises to never store or train on your prompts, charges a fixed monthly price, and its serving code will be open source. If you need something live today, DeepInfra doesn't store or train either, and it's the cheapest per token.
 
-Boost is a pre-order now, API key by January 2027. I haven't run it as a customer, so it's ranked on what it promises, and I say where that promise isn't backed by a published policy yet.
+Boost is a pre-order now, with API keys from January 2027.
 
 **[See the Boost plans](https://getoffgridai.co/boost/)**
 
 ## The APIs compared
 
-Checked 16 November 2026 on each provider's own pricing, privacy and docs pages. Prices are per 1M tokens, input / output, for DeepSeek V4.1 Flash unless I say otherwise.
+ Prices are per 1M tokens, input / output, for DeepSeek V4.1 Flash unless I say otherwise.
 
 | | Stores prompts? | Trains on them? | Price | Limits |
 |---|---|---|---|---|

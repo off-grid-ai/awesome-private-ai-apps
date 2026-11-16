@@ -6,7 +6,6 @@ I build Off Grid AI, one of the apps below. I've tried to be fair, and every fac
 
 ## The apps compared
 
-Checked 15 November 2026 on each app's own site, pricing page or GitHub.
 
 | App | Platforms | Transcribes on your computer | Price | Best for |
 |---|---|---|---|---|

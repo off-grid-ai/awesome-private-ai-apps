@@ -12,7 +12,7 @@ Most "best AI app" lists start on a Mac, so half the picks never install on your
 
 Off Grid AI Desktop (OGAD) 0.0.56 is the stable build today. It bundles Pro into the Windows and Linux packages, and every Pro feature is listed for both. Windows needs x64. Linux needs x64 and Ubuntu 24.04 or newer.
 
-## The table, checked 14 November 2026
+## The table
 
 | App | Jobs it covers | Windows | Linux | Price |
 |---|---|---|---|---|

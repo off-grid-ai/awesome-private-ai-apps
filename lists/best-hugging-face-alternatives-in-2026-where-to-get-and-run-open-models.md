@@ -4,7 +4,7 @@ If every model in your stack comes from one hub, that hub is a single point of f
 
 The best Hugging Face alternative in 2026 is **Off Grid AI**, if you want to keep the model on your own device or hold your own key, with open-source code and no lock-in. The free apps run open models on your phone and computer, and Off Grid AI Boost is a flat-price API for open models. For a big download library, Ollama and ModelScope come next.
 
-Boost is a pre-order now, API key by January 2027, so we rank it on what it promises. We haven't used it as a customer.
+Boost is a pre-order now, with API keys from January 2027.
 
 **[See the free apps](https://getoffgridai.co/download/)** · **[See the Boost plans](https://getoffgridai.co/boost/)**
 
@@ -16,7 +16,6 @@ You probably don't need to leave Hugging Face. You need a second place to get an
 
 ## The alternatives compared
 
-Checked 16 November 2026 on each service's own pages.
 
 | | Best for | Price | You keep the model or hold the key? | Open source? |
 |---|---|---|---|---|

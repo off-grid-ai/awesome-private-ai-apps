@@ -19,7 +19,7 @@ Yes, you can buy an AI meeting notetaker once and never pay a monthly fee. **Off
 | [Anarlog](https://anarlog.so/pricing) (was Hyprnote, then Char) | Free plan | Your device's audio, no bot | Your computer, unlimited on the free plan | Mac; Windows and Linux in beta |
 | [Meetily](https://meetily.ai/pricing) | Free Community edition | System audio from Meet, Zoom, Teams, Slack Huddles and more | Your computer (Whisper) | Mac, Windows |
 
-*Rival facts from each app's own site, checked 14 November 2026. Off Grid AI's $34.99 is a limited-time lifetime price, down from $119.*
+*Rival facts from each app's own site. Off Grid AI's $34.99 is a limited-time lifetime price, down from $119.*
 
 ## What the monthly apps cost you
 
