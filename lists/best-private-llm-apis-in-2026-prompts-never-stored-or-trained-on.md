@@ -4,8 +4,6 @@ You wire an agent to an open model, it loops overnight, and two things bite. The
 
 Boost is a pre-order now, API key by January 2027. I haven't run it as a customer, so it's ranked on what it promises, and I say where that promise isn't backed by a published policy yet.
 
-We make Off Grid AI Boost, so weigh that, and every price below links to its source.
-
 **[See the Boost plans](https://getoffgridai.co/boost/)**
 
 ## The APIs compared

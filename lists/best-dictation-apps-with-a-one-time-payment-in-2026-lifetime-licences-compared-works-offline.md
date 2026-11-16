@@ -2,8 +2,6 @@
 
 **If you want dictation that types into any app, works offline and costs one payment, get Off Grid AI Pro, because $34.99 once covers Mac, Windows and Linux on up to 5 devices.** If you only use one Apple silicon Mac and want the lowest paid price, VoiceInk is $25 once. If you want to pay nothing, Handy is free. Wispr Flow has no lifetime plan, so it costs you $144 every year.
 
-*We make Off Grid AI. Every rival price and fact below comes from that app's own pages, checked 14 November 2026.*
-
 **[Get Pro for $34.99 once](https://getoffgridai.co/pro/#buy) · [Download Off Grid AI](https://getoffgridai.co/download/)**
 
 <figure>

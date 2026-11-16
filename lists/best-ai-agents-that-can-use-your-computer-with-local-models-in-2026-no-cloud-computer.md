@@ -4,8 +4,6 @@ The best AI agent that can use your computer with local models in 2026 is Off Gr
 
 **[Get Pro for $34.99 once](https://getoffgridai.co/pro/#buy) · [Download Off Grid AI](https://getoffgridai.co/download/)**
 
-We make Off Grid AI, so read our pick with that in mind. Every fact about the other five comes from their own pages, checked 14 November 2026.
-
 <figure>
   <img src="https://getoffgridai.co/assets/img/home/app/models-computer-use-light-1760.webp" alt="The Tasks tab in OGAD Models: grounding specialists such as UI-Mate, Holo3.1 and UI-TARS-1.5-7B, and decision models including Decider 2B and Kev 4B, ready to download." loading="lazy" />
   <figcaption>Computer Use models in OGAD. You download them once and they run on your computer.</figcaption>

@@ -2,7 +2,7 @@
 
 The best private AI app for Windows and Linux with no subscription is Off Grid AI. **The desktop app is free and runs chat, images, voice and document answers on your own PC. Pro adds meeting notes, dictation, screen memory, time tracking and Computer Use, on both Windows and Linux, for $34.99 once.**
 
-You pay that once and it covers up to 5 devices. Nothing goes to a cloud model unless you add one. We make Off Grid AI, so every rival fact below links to that app's own page, checked 14 November 2026.
+You pay that once and it covers up to 5 devices. Nothing goes to a cloud model unless you add one.
 
 **[Get Pro for $34.99 once](https://getoffgridai.co/pro/#buy) · [Download Off Grid AI](https://getoffgridai.co/download/)**
 

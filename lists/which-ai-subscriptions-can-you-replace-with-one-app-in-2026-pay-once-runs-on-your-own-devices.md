@@ -2,8 +2,6 @@
 
 You can replace up to ten AI subscriptions with one app, Off Grid AI, and own it after one payment. **Private chat and images are free, and Off Grid AI Pro adds meeting notes without a bot, dictation, screen memory, time tracking, clipboard, a password vault, browser tasks and an email helper, for $34.99 once.**
 
-We make Off Grid AI. Every rival fact below comes from its own pages, checked 14 November 2026.
-
 **[Get Pro for $34.99 once](https://getoffgridai.co/pro/#buy) · [Download Off Grid AI](https://getoffgridai.co/download/)**
 
 <figure>

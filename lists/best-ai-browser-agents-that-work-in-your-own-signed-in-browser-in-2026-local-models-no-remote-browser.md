@@ -4,8 +4,6 @@ If you want an AI agent working in your own signed-in browser with the model on 
 
 **[Get Pro for $34.99 once](https://getoffgridai.co/pro/#buy) · [Download Off Grid AI](https://getoffgridai.co/download/) · [Chrome Web Store](https://chromewebstore.google.com/detail/off-grid-ai/mohdjadebdkpineabaglhbeepcehahkd) · [Firefox Add-ons](https://addons.mozilla.org/addon/off-grid-ai/)**
 
-We make Off Grid AI. Every rival fact below comes from its own pages, checked 14 November 2026.
-
 <figure>
   <img src="https://getoffgridai.co/assets/img/home/app/web-takeover-light-1760.webp" alt="An Off Grid AI Desktop web task paused at a sign-in page, with its execution plan beside it, waiting for the user to sign in." loading="lazy" />
   <figcaption>When a task reaches a sign-in page, it waits for you to sign in yourself.</figcaption>

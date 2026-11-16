@@ -2,8 +2,6 @@
 
 Yes, you can buy an AI meeting notetaker once and never pay a monthly fee. **Off Grid AI Pro records your Zoom, Google Meet or Teams call with no bot, writes the transcript and summary on your own computer, and costs $34.99 once on Mac, Windows and Linux.**
 
-We make Off Grid AI. Every rival fact and price below comes from that app's own page, checked 14 November 2026.
-
 **[Get Pro for $34.99 once](https://getoffgridai.co/pro/#buy) · [Download Off Grid AI](https://getoffgridai.co/download/)**
 
 <figure>

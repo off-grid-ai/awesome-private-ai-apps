@@ -4,8 +4,6 @@
 
 Grammarly reads what you type on its servers. Its [privacy policy](https://superhuman.com/legal/privacy-policy), now published by Superhuman, says it processes "your user content" to give writing suggestions. Every app below can do the checking on your own machine instead.
 
-*We make Off Grid AI. Every rival fact below comes from that app's own pages or GitHub, checked 16 November 2026.*
-
 **[Get Pro for $34.99 once](https://getoffgridai.co/pro/#buy) · [Download Off Grid AI](https://getoffgridai.co/download/)**
 
 <figure>

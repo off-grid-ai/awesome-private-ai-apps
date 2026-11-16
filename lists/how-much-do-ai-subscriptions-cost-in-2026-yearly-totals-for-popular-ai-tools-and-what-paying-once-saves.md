@@ -2,8 +2,6 @@
 
 Eleven popular AI subscriptions cost $1,234.70 a year together on their cheapest plans, and $1,589.40 if you pay month to month. Pay for just one tool per job, say Granola, Wispr Flow, Rize, Paste, 1Password and ChatGPT Plus, and it's still $749.75 every year. **Off Grid AI covers those six jobs with one payment. Private chat is free, and Pro adds the rest for $34.99 once, less than one year of ChatGPT Plus alone.**
 
-We make Off Grid AI. Every rival price below comes from that product's own pricing page, checked 14 November 2026, and is linked next to the number.
-
 **[Get Pro for $34.99 once](https://getoffgridai.co/pro/#buy) · [Download Off Grid AI](https://getoffgridai.co/download/)**
 
 <figure>

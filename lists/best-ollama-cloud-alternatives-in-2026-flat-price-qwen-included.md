@@ -4,8 +4,6 @@ You wire an open model into your app, an agent loop runs overnight, and the bill
 
 If you want a fixed price instead, the best Ollama Cloud alternative in 2026 is **Off Grid AI Boost**. It starts at $4.99 a month, lists Qwen 3.8 and DeepSeek V4.1 Flash under one API key, and we don't keep your prompts or train on them. It's a pre-order now, API key by January 2027.
 
-We make Off Grid AI Boost, so weigh that, and every price below links to its source.
-
 **[See the Boost plans](https://getoffgridai.co/boost/)**
 
 ## How Ollama Cloud's credits work

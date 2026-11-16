@@ -6,8 +6,6 @@ The best Hugging Face alternative in 2026 is **Off Grid AI**, if you want to kee
 
 Boost is a pre-order now, API key by January 2027, so we rank it on what it promises. We haven't used it as a customer.
 
-We make Off Grid AI, so weigh that, and every price below links to its source.
-
 **[See the free apps](https://getoffgridai.co/download/)** · **[See the Boost plans](https://getoffgridai.co/boost/)**
 
 ## Why people are looking

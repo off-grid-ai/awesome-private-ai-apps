@@ -4,8 +4,6 @@ The best way to run local AI models behind an OpenAI-compatible API in 2026 is O
 
 **[Download Off Grid AI](https://getoffgridai.co/download/) · [See the desktop app](https://getoffgridai.co/desktop/)**
 
-We make Off Grid AI, so weigh our pick with that in mind. Every fact about the other five comes from their own docs, checked 14 November 2026.
-
 <figure>
   <img src="https://getoffgridai.co/assets/img/home/app/gateway-light-1760.webp" alt="Off Grid AI Desktop Gateway screen showing the base URL http://127.0.0.1:7878/v1, a curl example, and endpoints for chat, text to image, speech to text, text to speech, embeddings and models." loading="lazy" />
   <figcaption>The Gateway screen. One base URL, code you can copy, and every endpoint the app serves.</figcaption>

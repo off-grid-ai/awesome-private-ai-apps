@@ -9,8 +9,6 @@
   <figcaption>Reflect in OGAD Pro shows a week of work by project, app and person, with no timers.</figcaption>
 </figure>
 
-We make Off Grid AI, so weigh our pick with that in mind. Every rival fact below comes from that app's own pages, checked on 14 November 2026.
-
 ## How we ranked
 
 1. **No timers.** It records on its own while you work.

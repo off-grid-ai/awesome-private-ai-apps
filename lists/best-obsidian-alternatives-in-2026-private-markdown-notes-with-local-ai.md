@@ -4,8 +4,6 @@
 
 Obsidian keeps your notes as Markdown files, and that's worth keeping. The apps below do the same, so you're never locked in. What changes is what sits around the files: AI that checks and rewrites on your machine, history you can restore, and whether your vault opens without an import.
 
-*We make Off Grid AI. Every rival fact below comes from that app's own pages or GitHub, checked 16 November 2026.*
-
 **[Get Pro for $34.99 once](https://getoffgridai.co/pro/#buy) · [Download Off Grid AI](https://getoffgridai.co/download/)**
 
 <figure>

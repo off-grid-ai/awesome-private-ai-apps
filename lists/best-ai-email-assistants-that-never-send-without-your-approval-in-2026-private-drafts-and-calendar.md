@@ -2,8 +2,6 @@
 
 The best AI email assistant that never sends without your approval, if privacy matters to you, is Off Grid AI Desktop (OGAD) Pro. **It reads Gmail, Outlook and your calendars with a model on your own computer, writes the draft you ask for, and sends only when you tell it to. Anything it suggests on its own waits for your yes. You pay for it once, and the same key also covers meetings, memory, dictation and sync.**
 
-We make Off Grid AI. Every rival fact below comes from its own pages, checked 14 November 2026.
-
 **[Get Pro for $34.99 once](https://getoffgridai.co/pro/#buy) · [Download Off Grid AI](https://getoffgridai.co/download/)**
 
 <figure>

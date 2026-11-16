@@ -2,8 +2,6 @@
 
 **If you want dictation that types into any app, keeps your voice on your computer and costs one payment, pick Off Grid AI Pro, because $34.99 once covers dictation on Mac, Windows and Linux, plus meetings, memory, Sync and Vault.** If dictation is all you need and you want to pay nothing, Handy is the honest pick. VoiceInk is the cheapest paid app for one Mac.
 
-*We make Off Grid AI. Every rival fact below comes from its own pages, checked 14 November 2026.*
-
 **[Get Pro for $34.99 once](https://getoffgridai.co/pro/#buy) · [Download Off Grid AI](https://getoffgridai.co/download/)**
 
 <figure>
