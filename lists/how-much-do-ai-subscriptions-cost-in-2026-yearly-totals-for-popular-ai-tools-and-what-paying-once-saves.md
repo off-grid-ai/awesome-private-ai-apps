@@ -24,7 +24,7 @@ Prices are for one person, in US dollars, before tax. "Yearly cost" uses the che
 | [Rize Basic](https://rize.io/pricing) | Time tracking | $12.99 | $119.88 ($9.99 a month billed yearly) | Pro (Reflect) |
 | [RescueTime Solo](https://www.rescuetime.com/pricing) | Time tracking | $9 | $84 | Pro (Reflect) |
 | [Raycast Pro](https://www.raycast.com/pricing) | AI in a launcher | $10 | $96 | AI chat free, clipboard with Pro |
-| [1Password Individual](https://1password.com/pricing/password-manager) | Passwords | Billed yearly only | $47.88 ($35.88 first year for new customers) | Pro, one computer |
+| [1Password Individual](https://1password.com/pricing/password-manager) | Passwords | Billed yearly only | $47.88 ($35.88 first year for new customers) | Pro, computer and phone |
 | [Paste Personal](https://pasteapp.io/pricing) | Clipboard history | $3.99 | $29.99 | Pro |
 | [Rewind / Limitless](https://www.limitless.ai/) | Screen memory | No longer sold | Not counted | Pro (Memory) |
 | **All 11 priced tools** | | **$1,589.40 a year** | **$1,234.70** | **$34.99 once** |
@@ -61,14 +61,14 @@ Cloud AI tools pay for a server every time you ask them something, so they have 
 - **Time tracking, Pro.** Reflect shows your day and week by project, app and person, with no timers to start.
 - **Screen memory, Pro.** Memory keeps your screens, meetings, mail and documents searchable on your disk, which is the job Rewind used to do.
 - **Clipboard, Pro.** A searchable history of text, links, images and files, and Sync sends copied text between your phone and computer over your own network.
-- **Passwords, Pro.** Vault holds logins, cards and private files, encrypted on one computer.
+- **Passwords, Pro.** Vault holds logins, cards and private files, encrypted, and syncs to your phone over your own network.
 
 OGAD needs a Mac with Apple silicon, Windows, or Linux on x64 with Ubuntu 24.04 or newer. The app shows which models fit your machine before you download one.
 
 ## Where the subscriptions do a better job
 
 - **Hard reasoning and deep research.** ChatGPT Plus runs OpenAI's GPT-6 reasoning models on OpenAI's servers. A model that fits on your laptop is smaller, so keep Plus if you live in long research reports.
-- **Anything on your phone.** Off Grid AI's dictation, meetings, Reflect and Vault run on your computer. Wispr Flow and Superwhisper have phone apps, Otter and Fireflies record on iOS and Android, and 1Password works on every device. OGAM has no vault.
+- **Anything on your phone.** Off Grid AI's dictation, meetings and Reflect run on your computer. Wispr Flow and Superwhisper have phone apps, Otter and Fireflies record on iOS and Android, and 1Password works on every device.
 - **Teams.** Granola Business, Fireflies and Otter Business have shared workspaces and team admin. Off Grid AI Pro is for one person.
 - **Focus blocking and client timesheets.** RescueTime blocks distractions in Focus Sessions, and Rize and RescueTime have billing reports. Reflect shows where your time went but blocks nothing.
 - **A launcher.** Raycast opens apps, manages windows and runs extensions. Off Grid AI doesn't replace any of that.

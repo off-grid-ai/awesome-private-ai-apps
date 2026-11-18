@@ -257,7 +257,7 @@ Use it, share it, copy the tables. If something's wrong or missing, [open an iss
 
 | Tool | Does | Phones | Computers | Works over the internet | Price |
 |---|---|---|---|---|---|
-| [Off Grid AI](https://getoffgridai.co/) | Files, clipboard text, chats and projects | iPhone, Android | Mac (Apple silicon), Windows x64, Linux x64 | No, local network only | Sync needs Pro: one payment of $34.99 right now (regular $119), or $7.99/month |
+| [Off Grid AI](https://getoffgridai.co/) | Files, clipboard text, passwords, chats and projects | iPhone, Android | Mac (Apple silicon), Windows x64, Linux x64 | No, local network only | Sync needs Pro: one payment of $34.99 right now (regular $119), or $7.99/month |
 | KDE Connect / GSConnect | Files, clipboard text, notifications, SMS | Android, iOS (limited) | Linux, Windows, macOS | Same network, or a VPN | Free |
 | Syncthing | Keeps whole folders in sync | Community apps (Syncthing-Fork, Möbius Sync) | Windows, macOS, Linux, BSD | Yes, through encrypted relays | Free, MPL-2.0 |
 | KeePassXC + a KeePass phone app | Passwords in one encrypted file | KeePassDX (Android), KeePassium or Strongbox (iPhone) | Windows, macOS, Linux | However you move the file | KeePassXC and KeePassDX free; iPhone apps have paid tiers |
@@ -367,7 +367,7 @@ Use it, share it, copy the tables. If something's wrong or missing, [open an iss
 | Screen memory | Screenpipe Basic | $21 a month, $250 a year | $750 | Pro. Memory of your screens, meetings, mail, docs |
 | Time tracking | Rize Basic | $12.99 a month, $9.99 billed yearly | $359.64 | Pro. Reflect, no timers |
 | Clipboard across devices | Paste Personal | $3.99 a month, $29.99 a year | $89.97 | Pro. Clipboard and Sync over your own network |
-| Password vault | 1Password Individual | $3.99 a month ($2.99 first-year promo) | $143.64 | Pro. Vault on one computer, not on your phone |
+| Password vault | 1Password Individual | $3.99 a month ($2.99 first-year promo) | $143.64 | Pro. Vault on your computer and phone, synced over your own network |
 | Browser and computer agent | Claude Pro, with Claude in Chrome | $20 a month, $200 a year | $600 | Pro. Web Use in Chrome or Firefox, Computer Use |
 | Email and calendar assistant | Superhuman Business | $33 a member a month, billed yearly | $1,188 | Pro, partly. Reads mail and calendars, drafts in Chat |
 | Images and video | Midjourney Basic | $10 a month, $96 a year | $288 | Images free. Video with Pro |
@@ -388,7 +388,7 @@ Use it, share it, copy the tables. If something's wrong or missing, [open an iss
 | Rize Basic | Time tracking | $12.99 | $119.88 ($9.99 a month billed yearly) | Pro (Reflect) |
 | RescueTime Solo | Time tracking | $9 | $84 | Pro (Reflect) |
 | Raycast Pro | AI in a launcher | $10 | $96 | AI chat free, clipboard with Pro |
-| 1Password Individual | Passwords | Billed yearly only | $47.88 ($35.88 first year for new customers) | Pro, one computer |
+| 1Password Individual | Passwords | Billed yearly only | $47.88 ($35.88 first year for new customers) | Pro, computer and phone |
 | Paste Personal | Clipboard history | $3.99 | $29.99 | Pro |
 | Rewind / Limitless | Screen memory | No longer sold | Not counted | Pro (Memory) |
 | **All 11 priced tools** | | **$1,589.40 a year** | **$1,234.70** | **$34.99 once** |

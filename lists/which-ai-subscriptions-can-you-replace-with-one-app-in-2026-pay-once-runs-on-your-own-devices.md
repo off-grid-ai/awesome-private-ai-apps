@@ -26,7 +26,7 @@ You can replace up to ten AI subscriptions with one app, Off Grid AI, and own it
 | Screen memory | [Screenpipe Basic](https://screenpipe.com/pricing) | $21 a month, $250 a year | $750 | Pro. Memory of your screens, meetings, mail, docs |
 | Time tracking | [Rize Basic](https://rize.io/pricing) | $12.99 a month, $9.99 billed yearly | $359.64 | Pro. Reflect, no timers |
 | Clipboard across devices | [Paste Personal](https://pasteapp.io/pricing) | $3.99 a month, $29.99 a year | $89.97 | Pro. Clipboard and Sync over your own network |
-| Password vault | [1Password Individual](https://1password.com/pricing/password-manager) | $3.99 a month ($2.99 first-year promo) | $143.64 | Pro. Vault on one computer, not on your phone |
+| Password vault | [1Password Individual](https://1password.com/pricing/password-manager) | $3.99 a month ($2.99 first-year promo) | $143.64 | Pro. Vault on your computer and phone, synced over your own network |
 | Browser and computer agent | [Claude Pro](https://claude.com/pricing), with Claude in Chrome | $20 a month, $200 a year | $600 | Pro. Web Use in Chrome or Firefox, Computer Use |
 | Email and calendar assistant | [Superhuman Business](https://superhuman.com/plans/mail) | $33 a member a month, billed yearly | $1,188 | Pro, partly. Reads mail and calendars, drafts in Chat |
 | Images and video | [Midjourney Basic](https://docs.midjourney.com/hc/en-us/articles/27870484040333-Comparing-Midjourney-Plans) | $10 a month, $96 a year | $288 | Images free. Video with Pro |
@@ -53,7 +53,7 @@ OGAD needs a Mac with Apple silicon, Windows, or Linux on x64 with Ubuntu 24.04 
 ## Where a dedicated tool is still better
 
 - **Hard reasoning and deep research.** ChatGPT Plus runs GPT-6 models on OpenAI's servers. A model that fits on your laptop is smaller. If you live in long research reports, keep Plus.
-- **Passwords on your phone, or for a family.** Off Grid AI Vault stays on one computer and OGAM has no vault. 1Password has apps for phones and computers, and its Families plan shares vaults across 5 people.
+- **Passwords for a family.** Off Grid AI Vault is yours alone, on your own paired devices. 1Password's Families plan shares vaults across 5 people.
 - **A draft waiting in every thread.** Off Grid AI writes a draft when you ask, in Chat or in your own Gmail tab with Web Use. Superhuman writes Auto Drafts into your threads before you ask.
 - **Dictation on your phone.** Off Grid AI's dictation into other apps is computer only. Wispr Flow has phone apps.
 - **A team sharing notes in one workspace.** Granola Business connects notes to Notion and HubSpot and adds workspace features. Off Grid AI Pro is for one person, with no shared workspace.
@@ -70,7 +70,7 @@ OGAD needs a Mac with Apple silicon, Windows, or Linux on x64 with Ubuntu 24.04 
 ## FAQ
 
 **Which AI subscriptions can I replace with one app?**
-Off Grid AI covers private chat, meeting notes without a bot, dictation, screen memory, time tracking, clipboard history, a password vault, browser and computer tasks, an email helper, and image and video making. Chat and images are free. The rest come with Off Grid AI Pro for $34.99 once. The email helper only reads and drafts, and the vault stays on one computer.
+Off Grid AI covers private chat, meeting notes without a bot, dictation, screen memory, time tracking, clipboard history, a password vault, browser and computer tasks, an email helper, and image and video making. Chat and images are free. The rest come with Off Grid AI Pro for $34.99 once. The email helper only reads and drafts.
 
 **Is there an AI app I can pay for once instead of monthly?**
 Yes. Off Grid AI Pro is $34.99 once, a limited-time price down from $119, for up to 5 devices, and it also comes as $7.99 a month. It can sell a one-time price because the models run on your own computer and phone, so each answer costs nobody a server bill.
@@ -82,7 +82,7 @@ Off Grid AI. Private chat is free, and meetings, dictation and screen memory com
 For everyday writing, summaries and questions about your files, a local model does the job. For the hardest reasoning and deep research, ChatGPT Plus runs OpenAI's GPT-6 models on OpenAI's servers, and a model on your computer is smaller. Off Grid AI keeps your chats on your device and adds memory of your own work.
 
 **Does Off Grid AI replace my subscriptions on my phone too?**
-Partly. Off Grid AI Mobile (OGAM) does free private chat and images on iPhone and Android, makes video with Pro, and syncs with your computer over your own network. Meetings, dictation into other apps, screen memory, time tracking and the vault run on your computer.
+Partly. Off Grid AI Mobile (OGAM) does free private chat and images on iPhone and Android, makes video with Pro, keeps your Vault and notes with Pro, and syncs with your computer over your own network. Meetings, dictation into other apps, screen memory and time tracking run on your computer.
 
 **Do I need the internet to use it?**
 Once, to download the app and your models and to activate Pro. After that chat, meetings, dictation and memory run on your computer offline. Sync between your phone and computer needs your local network, and reading Gmail or Outlook needs the internet.

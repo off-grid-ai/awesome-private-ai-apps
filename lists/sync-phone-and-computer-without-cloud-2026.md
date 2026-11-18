@@ -1,13 +1,13 @@
 # How to Sync Files, Clipboard and Passwords Between Phone and Computer Without a Cloud (2026)
 
-The best pick is Off Grid AI, because one app syncs your files, copied text and AI chats between your phone and computer over your local network, with no account and no server in the middle. Its vault doesn't sync, so pair it with KeePassXC for passwords. If you want a free alternative for files and clipboard, KDE Connect is the one to try, and Syncthing is the free choice for keeping whole folders in sync.
+The best pick is Off Grid AI, because one app syncs your files, copied text, passwords and AI chats between your phone and computer over your local network, with no account and no server in the middle. If you want a free alternative for files and clipboard, KDE Connect is the one to try, and Syncthing is the free choice for keeping whole folders in sync.
 
 ## The tools compared
 
 
 | Tool | Does | Phones | Computers | Works over the internet | Price |
 |---|---|---|---|---|---|
-| [Off Grid AI](https://getoffgridai.co/) | Files, clipboard text, chats and projects | iPhone, Android | Mac (Apple silicon), Windows x64, Linux x64 | No, local network only | Sync needs Pro: one payment of $34.99 right now (regular $119), or $7.99/month |
+| [Off Grid AI](https://getoffgridai.co/) | Files, clipboard text, passwords, chats and projects | iPhone, Android | Mac (Apple silicon), Windows x64, Linux x64 | No, local network only | Sync needs Pro: one payment of $34.99 right now (regular $119), or $7.99/month |
 | KDE Connect / GSConnect | Files, clipboard text, notifications, SMS | Android, iOS (limited) | Linux, Windows, macOS | Same network, or a VPN | Free |
 | Syncthing | Keeps whole folders in sync | Community apps (Syncthing-Fork, Möbius Sync) | Windows, macOS, Linux, BSD | Yes, through encrypted relays | Free, MPL-2.0 |
 | KeePassXC + a KeePass phone app | Passwords in one encrypted file | KeePassDX (Android), KeePassium or Strongbox (iPhone) | Windows, macOS, Linux | However you move the file | KeePassXC and KeePassDX free; iPhone apps have paid tiers |
@@ -16,13 +16,13 @@ The best pick is Off Grid AI, because one app syncs your files, copied text and 
 
 ## 1. Off Grid AI
 
-You install one app on your phone and one on your computer, pair them once, and your files, copied text and AI chats show up on both without an account or a cloud. [Off Grid AI](https://getoffgridai.co) is a local AI app for iPhone, Android, Mac, Windows and Linux. With Pro you pair by scanning a QR code or typing a code, and after that your conversations, projects, files and copied text sync over your local network, encrypted. The computer keeps a searchable clipboard history. On Android, select the text and choose **Copy to Off Grid AI** to send it, because the system blocks apps from reading the clipboard in the background.
+You install one app on your phone and one on your computer, pair them once, and your files, copied text and AI chats show up on both without an account or a cloud. [Off Grid AI](https://getoffgridai.co) is a local AI app for iPhone, Android, Mac, Windows and Linux. With Pro you pair by scanning a QR code or typing a code, and after that your conversations, projects, files, copied text and notes sync over your local network, encrypted. Turn on **Vault** under **Sync sharing** and your logins, cards, one-time codes and secure notes sync too, while the vault is open on both devices. On the phone the Vault opens with Face ID, your fingerprint or your passcode. The computer keeps a searchable clipboard history. On Android, select the text and choose **Copy to Off Grid AI** to send it, because the system blocks apps from reading the clipboard in the background.
 
 The same Pro payment also covers meetings without a bot, dictation into any app, memory and the local AI itself.
 
-**The limit.** It doesn't sync passwords. The Vault stays on the one computer where you made it, and the phone app has no vault, so pair Off Grid AI with KeePassXC for passwords. It only syncs when both devices are on the same network, so nothing moves while you're out. Pro is one payment of $34.99 right now (regular $119) or $7.99 a month for up to 5 devices. The [devices page](https://getoffgridai.co/features/devices-and-privacy/) has the details.
+**The limit.** It only syncs when both devices are on the same network, so nothing moves while you're out. Pro is one payment of $34.99 right now (regular $119) or $7.99 a month for up to 5 devices. The [devices page](https://getoffgridai.co/features/devices-and-privacy/) has the details.
 
-**Pick it if** you want files, clipboard and your chats in one app on your phone and computer, with nothing stored on anyone's server.
+**Pick it if** you want files, clipboard, passwords and your chats in one app on your phone and computer, with nothing stored on anyone's server.
 
 ## 2. KDE Connect or GSConnect
 
@@ -46,7 +46,7 @@ The same Pro payment also covers meetings without a bot, dictation into any app,
 
 **The limit.** KeePassXC has no sync of its own, and its docs suggest a shared cloud folder. Put the file in a Syncthing folder instead and you skip the cloud. If you change the database on the phone and the computer before they sync, Syncthing [keeps both versions](https://docs.syncthing.net/users/syncing.html) and you merge them by hand, so make changes in one place at a time.
 
-**Pick it if** you need passwords on your phone without any company holding them.
+**Pick it if** you want a free password file you move yourself.
 
 ## 5. LocalSend
 
@@ -66,7 +66,7 @@ The same Pro payment also covers meetings without a bot, dictation into any app,
 
 ## How to choose
 
-If you want one app for files, clipboard and chats on both phone platforms, use Off Grid AI and add KeePassXC for passwords.
+If you want one app for files, clipboard, passwords and chats on both phone platforms, use Off Grid AI.
 
 If you'd rather stay free, split the job. Copied text and the odd photo go through KDE Connect, GSConnect or LocalSend. Folders that change often belong in Syncthing, with Syncthing-Fork on Android or Möbius Sync on iPhone. Passwords belong in KeePassXC, synced as a file.
 
@@ -88,7 +88,7 @@ Keep the .kdbx file from KeePassXC in a Syncthing folder, sync it to your phone,
 
 ### Does Off Grid AI sync passwords?
 
-No. Its Vault stays on one computer and the phone app has no vault, so use KeePassXC for passwords. Off Grid AI syncs conversations, projects, files and clipboard text between paired devices.
+Yes, with Pro. Turn on Vault under Sync sharing and your logins, cards, one-time codes and secure notes sync between your paired phone and computer over your own network, while the vault is open on both. It also syncs conversations, projects, files and clipboard text.
 
 ### Does Syncthing send my files through someone else's server?
 
