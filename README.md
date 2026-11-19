@@ -1,6 +1,6 @@
 # The Best Private AI Apps in 2026
 
-Every app we could find that runs AI on your own phone or computer, the APIs for open models that don't keep your prompts, and what the paid alternatives cost. 24 lists, each with its full comparison: platforms, prices, limits and what it's best for. Every fact links to its source in the full list.
+Every app we could find that runs AI on your own phone or computer, the APIs for open models that don't keep your prompts, and what the paid alternatives cost. 25 lists, each with its full comparison: platforms, prices, limits and what it's best for. Every fact links to its source in the full list.
 
 Use it, share it, copy the tables. If something's wrong or missing, [open an issue](https://github.com/off-grid-ai/private-ai-apps/issues) with a link and we'll fix it.
 
@@ -38,6 +38,10 @@ Use it, share it, copy the tables. If something's wrong or missing, [open an iss
 
 23. [Which AI subscriptions one app can replace](#23-which-ai-subscriptions-one-app-can-replace)
 24. [What popular AI subscriptions cost a year](#24-what-popular-ai-subscriptions-cost-a-year)
+
+**By country**
+
+25. [ChatGPT alternatives by country, with local prices](#25-chatgpt-alternatives-by-country-with-local-prices)
 
 
 ## Apps that run on your phone and computer
@@ -394,6 +398,27 @@ Use it, share it, copy the tables. If something's wrong or missing, [open an iss
 | **All 11 priced tools** | | **$1,589.40 a year** | **$1,234.70** | **$34.99 once** |
 
 [Full list with sources](lists/how-much-do-ai-subscriptions-cost-in-2026-yearly-totals-for-popular-ai-tools-and-what-paying-once-saves.md) · [Read on dev.to](https://dev.to/alichherawalla/how-much-do-ai-subscriptions-cost-in-2026-yearly-totals-for-popular-ai-tools-and-what-paying-once-3f9)
+
+## By country
+
+### 25. ChatGPT alternatives by country, with local prices
+
+| Country | ChatGPT Go | Google AI Plus | Off Grid AI |
+|---|---|---|---|
+| India | ₹399 a month | ₹399 a month | Free. Pro $20 once |
+| Pakistan | PKR 1,400 a month | PKR 1,400 a month | Free. Pro $20 once |
+| Bangladesh | ChatGPT Plus, $20 a month | Not listed | Free. Pro $20 once |
+| Philippines | ₱300 a month | ₱285 a month | Free. Pro $20 once |
+| Nigeria | NGN 6,900 a month | NGN 7,700 a month | Free. Pro $20 once |
+| Indonesia | Rp75.000 a month | Rp75.000 a month | Free. Pro $20 once |
+| Brazil | R$39,90 a month | R$24,99 a month | Free. Pro $20 once |
+| Mexico | MX$129 a month | MX$99 a month | Free. Pro $20 once |
+| Colombia | COP 24.900 a month | COP 19.900 a month | Free. Pro $20 once |
+| Vietnam | 132.000₫ a month | 132.000₫ a month | Free. Pro $20 once |
+| Thailand | 259 baht a month | 189 baht a month | Free. Pro $20 once |
+| Egypt | EGP 249.99 a month | EGP 249.99 a month | Free. Pro $20 once |
+
+[Full list with guides in each language](lists/best-chatgpt-alternatives-by-country-in-2026-free-offline-ai-and-pro-for-20-once.md)
 
 ## How these lists are made
 
