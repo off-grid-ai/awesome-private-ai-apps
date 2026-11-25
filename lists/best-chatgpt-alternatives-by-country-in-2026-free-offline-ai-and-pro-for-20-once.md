@@ -63,7 +63,7 @@ Local monthly prices from [GeoSub](https://geosub.org/en/ai-pricing/chatgpt/go) 
 
 ## Start in 3 steps
 
-1. **Install Off Grid AI** from [Google Play](https://play.google.com/store/apps/details?id=ai.offgridmobile) or the [App Store](https://apps.apple.com/us/app/off-grid-ai-private-local-ai/id6759299882). No account.
+1. **Install Off Grid AI** on [Android](https://getoffgridai.co/download/) or from the [App Store](https://apps.apple.com/us/app/off-grid-ai-private-local-ai/id6759299882). No account.
 2. **Open Models and download one on Wi-Fi.** Qwen 3.5 0.8B is small and fast; Gemma 4 E2B gives better answers on phones with 6 GB of RAM or more.
 3. **Turn on airplane mode and chat.** Tap **New Chat** and type, or hold the mic and talk.
 
